@@ -1,0 +1,1875 @@
+165	AEBP1	AE binding protein 1
+190	NR0B1	nuclear receptor subfamily 0, group B, member 1
+196	AHR	aryl hydrocarbon receptor
+257	ALX3	aristaless-like homeobox 3
+326	AIRE	autoimmune regulator
+367	AR	androgen receptor
+401	PHOX2A	paired-like homeobox 2a
+405	ARNT	aryl hydrocarbon receptor nuclear translocator
+406	ARNTL	aryl hydrocarbon receptor nuclear translocator-like
+429	ASCL1	achaete-scute complex homolog 1 (Drosophila)
+430	ASCL2	achaete-scute complex homolog 2 (Drosophila)
+463	ZFHX3	zinc finger homeobox 3
+466	ATF1	activating transcription factor 1
+467	ATF3	activating transcription factor 3
+468	ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)
+473	RERE	arginine-glutamic acid dipeptide (RE) repeats
+474	ATOH1	atonal homolog 1 (Drosophila)
+571	BACH1	BTB and CNC homology 1, basic leucine zipper transcription factor 1
+574	BAGE	B melanoma antigen
+579	NKX3-2	NK3 homeobox 2
+604	BCL6	B-cell CLL/lymphoma 6
+639	PRDM1	PR domain containing 1, with ZNF domain
+646	BNC1	basonuclin 1
+668	FOXL2	forkhead box L2
+677	ZFP36L1	zinc finger protein 36, C3H type-like 1
+678	ZFP36L2	zinc finger protein 36, C3H type-like 2
+687	KLF9	Kruppel-like factor 9
+688	KLF5	Kruppel-like factor 5 (intestinal)
+741	ZNHIT2	zinc finger, HIT type 2
+745	C11orf9	chromosome 11 open reading frame 9
+860	RUNX2	runt-related transcription factor 2
+861	RUNX1	runt-related transcription factor 1
+862	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)
+863	CBFA2T3	core-binding factor, runt domain, alpha subunit 2; translocated to, 3
+864	RUNX3	runt-related transcription factor 3
+865	CBFB	core-binding factor, beta subunit
+867	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence
+1044	CDX1	caudal type homeobox 1
+1045	CDX2	caudal type homeobox 2
+1046	CDX4	caudal type homeobox 4
+1050	CEBPA	CCAAT/enhancer binding protein (C/EBP), alpha
+1051	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta
+1052	CEBPD	CCAAT/enhancer binding protein (C/EBP), delta
+1053	CEBPE	CCAAT/enhancer binding protein (C/EBP), epsilon
+1054	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma
+1112	FOXN3	forkhead box N3
+1316	KLF6	Kruppel-like factor 6
+1385	CREB1	cAMP responsive element binding protein 1
+1386	ATF2	activating transcription factor 2
+1387	CREBBP	CREB binding protein
+1388	CREBL1	cAMP responsive element binding protein-like 1
+1389	CREBL2	cAMP responsive element binding protein-like 2
+1390	CREM	cAMP responsive element modulator
+1406	CRX	cone-rod homeobox
+1482	NKX2-5	NK2 transcription factor related, locus 5 (Drosophila)
+1487	CTBP1	C-terminal binding protein 1
+1488	CTBP2	C-terminal binding protein 2
+1523	CUX1	cut-like homeobox 1
+1628	DBP	D site of albumin promoter (albumin D-box) binding protein
+1649	DDIT3	DNA-damage-inducible transcript 3
+1745	DLX1	distal-less homeobox 1
+1746	DLX2	distal-less homeobox 2
+1747	DLX3	distal-less homeobox 3
+1748	DLX4	distal-less homeobox 4
+1749	DLX5	distal-less homeobox 5
+1750	DLX6	distal-less homeobox 6
+1761	DMRT1	doublesex and mab-3 related transcription factor 1
+1811	SLC26A3	solute carrier family 26, member 3
+1820	ARID3A	AT rich interactive domain 3A (BRIGHT-like)
+1827	RCAN1	regulator of calcineurin 1
+1831	TSC22D3	TSC22 domain family, member 3
+1869	E2F1	E2F transcription factor 1
+1870	E2F2	E2F transcription factor 2
+1871	E2F3	E2F transcription factor 3
+1874	E2F4	E2F transcription factor 4, p107/p130-binding
+1875	E2F5	E2F transcription factor 5, p130-binding
+1876	E2F6	E2F transcription factor 6
+1877	E4F1	E4F transcription factor 1
+1879	EBF1	early B-cell factor 1
+1958	EGR1	early growth response 1
+1959	EGR2	early growth response 2 (Krox-20 homolog, Drosophila)
+1960	EGR3	early growth response 3
+1961	EGR4	early growth response 4
+1997	ELF1	E74-like factor 1 (ets domain transcription factor)
+1998	ELF2	E74-like factor 2 (ets domain transcription factor)
+1999	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )
+2000	ELF4	E74-like factor 4 (ets domain transcription factor)
+2001	ELF5	E74-like factor 5 (ets domain transcription factor)
+2002	ELK1	ELK1, member of ETS oncogene family
+2004	ELK3	ELK3, ETS-domain protein (SRF accessory protein 2)
+2005	ELK4	ELK4, ETS-domain protein (SRF accessory protein 1)
+2016	EMX1	empty spiracles homeobox 1
+2018	EMX2	empty spiracles homeobox 2
+2019	EN1	engrailed homeobox 1
+2020	EN2	engrailed homeobox 2
+2023	ENO1	enolase 1, (alpha)
+2033	EP300	E1A binding protein p300
+2034	EPAS1	endothelial PAS domain protein 1
+2063	NR2F6	nuclear receptor subfamily 2, group F, member 6
+2077	ERF	Ets2 repressor factor
+2078	ERG	v-ets erythroblastosis virus E26 oncogene homolog (avian)
+2086	ERV3	endogenous retroviral sequence 3 (includes zinc finger protein H-plk/HPF9)
+2099	ESR1	estrogen receptor 1
+2100	ESR2	estrogen receptor 2 (ER beta)
+2101	ESRRA	estrogen-related receptor alpha
+2103	ESRRB	estrogen-related receptor beta
+2104	ESRRG	estrogen-related receptor gamma
+2113	ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)
+2114	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)
+2115	ETV1	ets variant 1
+2116	ETV2	ets variant 2
+2117	ETV3	ets variant 3
+2118	ETV4	ets variant 4
+2119	ETV5	ets variant 5
+2120	ETV6	ets variant 6
+2122	EVI1	ecotropic viral integration site 1
+2128	EVX1	even-skipped homeobox 1
+2130	EWSR1	Ewing sarcoma breakpoint region 1
+2186	BPTF	bromodomain PHD finger transcription factor
+2290	FOXG1	forkhead box G1
+2294	FOXF1	forkhead box F1
+2295	FOXF2	forkhead box F2
+2296	FOXC1	forkhead box C1
+2297	FOXD1	forkhead box D1
+2298	FOXD4	forkhead box D4
+2299	FOXI1	forkhead box I1
+2300	FOXL1	forkhead box L1
+2301	FOXE3	forkhead box E3
+2302	FOXJ1	forkhead box J1
+2303	FOXC2	forkhead box C2 (MFH-1, mesenchyme forkhead 1)
+2304	FOXE1	forkhead box E1 (thyroid transcription factor 2)
+2305	FOXM1	forkhead box M1
+2306	FOXD2	forkhead box D2
+2307	FOXS1	forkhead box S1
+2308	FOXO1	forkhead box O1
+2309	FOXO3	forkhead box O3
+2313	FLI1	Friend leukemia virus integration 1
+2353	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog
+2354	FOSB	FBJ murine osteosarcoma viral oncogene homolog B
+2355	FOSL2	FOS-like antigen 2
+2494	NR5A2	nuclear receptor subfamily 5, group A, member 2
+2516	NR5A1	nuclear receptor subfamily 5, group A, member 1
+2551	GABPA	GA binding protein transcription factor, alpha subunit 60kDa
+2553	GABPB1	GA binding protein transcription factor, beta subunit 1
+2623	GATA1	GATA binding protein 1 (globin transcription factor 1)
+2624	GATA2	GATA binding protein 2
+2625	GATA3	GATA binding protein 3
+2626	GATA4	GATA binding protein 4
+2627	GATA6	GATA binding protein 6
+2636	GBX1	gastrulation brain homeobox 1
+2637	GBX2	gastrulation brain homeobox 2
+2649	NR6A1	nuclear receptor subfamily 6, group A, member 1
+2672	GFI1	growth factor independent 1 transcription repressor
+2735	GLI1	glioma-associated oncogene homolog 1 (zinc finger protein)
+2736	GLI2	GLI-Kruppel family member GLI2
+2737	GLI3	GLI-Kruppel family member GLI3
+2908	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+2909	GRLF1	glucocorticoid receptor DNA binding factor 1
+2928	GSC2	goosecoid homeobox 2
+3054	HCFC1	host cell factor C1 (VP16-accessory protein)
+3059	HCLS1	hematopoietic cell-specific Lyn substrate 1
+3068	HDGF	hepatoma-derived growth factor (high-mobility group protein 1-like)
+3087	HHEX	hematopoietically expressed homeobox
+3090	HIC1	hypermethylated in cancer 1
+3091	HIF1A	hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+3093	UBE2K	ubiquitin-conjugating enzyme E2K (UBC1 homolog, yeast)
+3096	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1
+3097	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2
+3104	ZBTB48	zinc finger and BTB domain containing 48
+3110	MNX1	motor neuron and pancreas homeobox 1
+3131	HLF	hepatic leukemia factor
+3142	HLX	H2.0-like homeobox
+3146	HMGB1	high-mobility group box 1
+3148	HMGB2	high-mobility group box 2
+3149	HMGB3	high-mobility group box 3
+3159	HMGA1	high mobility group AT-hook 1
+3164	NR4A1	nuclear receptor subfamily 4, group A, member 1
+3166	HMX1	H6 family homeobox 1
+3167	HMX2	H6 family homeobox 2
+3169	FOXA1	forkhead box A1
+3170	FOXA2	forkhead box A2
+3171	FOXA3	forkhead box A3
+3172	HNF4A	hepatocyte nuclear factor 4, alpha
+3174	HNF4G	hepatocyte nuclear factor 4, gamma
+3175	ONECUT1	one cut homeobox 1
+3182	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B
+3195	TLX1	T-cell leukemia homeobox 1
+3196	TLX2	T-cell leukemia homeobox 2
+3198	HOXA1	homeobox A1
+3199	HOXA2	homeobox A2
+3200	HOXA3	homeobox A3
+3201	HOXA4	homeobox A4
+3202	HOXA5	homeobox A5
+3203	HOXA6	homeobox A6
+3204	HOXA7	homeobox A7
+3205	HOXA9	homeobox A9
+3206	HOXA10	homeobox A10
+3207	HOXA11	homeobox A11
+3209	HOXA13	homeobox A13
+3211	HOXB1	homeobox B1
+3212	HOXB2	homeobox B2
+3213	HOXB3	homeobox B3
+3214	HOXB4	homeobox B4
+3215	HOXB5	homeobox B5
+3216	HOXB6	homeobox B6
+3217	HOXB7	homeobox B7
+3218	HOXB8	homeobox B8
+3219	HOXB9	homeobox B9
+3221	HOXC4	homeobox C4
+3222	HOXC5	homeobox C5
+3223	HOXC6	homeobox C6
+3224	HOXC8	homeobox C8
+3225	HOXC9	homeobox C9
+3226	HOXC10	homeobox C10
+3227	HOXC11	homeobox C11
+3228	HOXC12	homeobox C12
+3229	HOXC13	homeobox C13
+3231	HOXD1	homeobox D1
+3232	HOXD3	homeobox D3
+3233	HOXD4	homeobox D4
+3234	HOXD8	homeobox D8
+3235	HOXD9	homeobox D9
+3236	HOXD10	homeobox D10
+3237	HOXD11	homeobox D11
+3238	HOXD12	homeobox D12
+3239	HOXD13	homeobox D13
+3280	HES1	hairy and enhancer of split 1, (Drosophila)
+3297	HSF1	heat shock transcription factor 1
+3298	HSF2	heat shock transcription factor 2
+3299	HSF4	heat shock transcription factor 4
+3344	FOXN2	forkhead box N2
+3394	IRF8	interferon regulatory factor 8
+3428	IFI16	interferon, gamma-inducible protein 16
+3516	RBPJ	recombination signal binding protein for immunoglobulin kappa J region
+3607	FOXK2	forkhead box K2
+3608	ILF2	interleukin enhancer binding factor 2, 45kDa
+3609	ILF3	interleukin enhancer binding factor 3, 90kDa
+3642	INSM1	insulinoma-associated 1
+3651	PDX1	pancreatic and duodenal homeobox 1
+3659	IRF1	interferon regulatory factor 1
+3660	IRF2	interferon regulatory factor 2
+3661	IRF3	interferon regulatory factor 3
+3662	IRF4	interferon regulatory factor 4
+3663	IRF5	interferon regulatory factor 5
+3664	IRF6	interferon regulatory factor 6
+3665	IRF7	interferon regulatory factor 7
+3670	ISL1	ISL LIM homeobox 1
+3720	JARID2	jumonji, AT rich interactive domain 2
+3725	JUN	jun oncogene
+3726	JUNB	jun B proto-oncogene
+3727	JUND	jun D proto-oncogene
+3899	AFF3	AF4/FMR2 family, member 3
+3975	LHX1	LIM homeobox 1
+4004	LMO1	LIM domain only 1 (rhombotin 1)
+4009	LMX1A	LIM homeobox transcription factor 1, alpha
+4010	LMX1B	LIM homeobox transcription factor 1, beta
+4066	LYL1	lymphoblastic leukemia derived sequence 1
+4084	MXD1	MAX dimerization protein 1
+4086	SMAD1	SMAD family member 1
+4087	SMAD2	SMAD family member 2
+4088	SMAD3	SMAD family member 3
+4089	SMAD4	SMAD family member 4
+4090	SMAD5	SMAD family member 5
+4091	SMAD6	SMAD family member 6
+4092	SMAD7	SMAD family member 7
+4093	SMAD9	SMAD family member 9
+4094	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+4097	MAFG	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+4149	MAX	MYC associated factor X
+4150	MAZ	MYC-associated zinc finger protein (purine-binding transcription factor)
+4152	MBD1	methyl-CpG binding domain protein 1
+4197	MDS1	myelodysplasia syndrome 1
+4204	MECP2	methyl CpG binding protein 2 (Rett syndrome)
+4205	MEF2A	myocyte enhancer factor 2A
+4207	MEF2B	myocyte enhancer factor 2B
+4208	MEF2C	myocyte enhancer factor 2C
+4209	MEF2D	myocyte enhancer factor 2D
+4211	MEIS1	Meis homeobox 1
+4212	MEIS2	Meis homeobox 2
+4222	MEOX1	mesenchyme homeobox 1
+4223	MEOX2	mesenchyme homeobox 2
+4286	MITF	microphthalmia-associated transcription factor
+4297	MLL	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)
+4299	AFF1	AF4/FMR2 family, member 1
+4303	FOXO4	forkhead box O4
+4306	NR3C2	nuclear receptor subfamily 3, group C, member 2
+4335	MNT	MAX binding protein
+4435	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1
+4487	MSX1	msh homeobox 1
+4488	MSX2	msh homeobox 2
+4520	MTF1	metal-regulatory transcription factor 1
+4602	MYB	v-myb myeloblastosis viral oncogene homolog (avian)
+4603	MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1
+4605	MYBL2	v-myb myeloblastosis viral oncogene homolog (avian)-like 2
+4609	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)
+4610	MYCL1	v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)
+4613	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)
+4617	MYF5	myogenic factor 5
+4618	MYF6	myogenic factor 6 (herculin)
+4654	MYOD1	myogenic differentiation 1
+4656	MYOG	myogenin (myogenic factor 4)
+4661	MYT1	myelin transcription factor 1
+4760	NEUROD1	neurogenic differentiation 1
+4761	NEUROD2	neurogenic differentiation 2
+4762	NEUROG1	neurogenin 1
+4772	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+4773	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
+4774	NFIA	nuclear factor I/A
+4775	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3
+4776	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4
+4778	NFE2	nuclear factor (erythroid-derived 2), 45kDa
+4779	NFE2L1	nuclear factor (erythroid-derived 2)-like 1
+4780	NFE2L2	nuclear factor (erythroid-derived 2)-like 2
+4781	NFIB	nuclear factor I/B
+4782	NFIC	nuclear factor I/C (CCAAT-binding transcription factor)
+4783	NFIL3	nuclear factor, interleukin 3 regulated
+4784	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)
+4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+4791	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)
+4798	NFRKB	nuclear factor related to kappaB binding protein
+4799	NFX1	nuclear transcription factor, X-box binding 1
+4800	NFYA	nuclear transcription factor Y, alpha
+4801	NFYB	nuclear transcription factor Y, beta
+4802	NFYC	nuclear transcription factor Y, gamma
+4807	NHLH1	nescient helix loop helix 1
+4808	NHLH2	nescient helix loop helix 2
+4821	NKX2-2	NK2 homeobox 2
+4824	NKX3-1	NK3 homeobox 1
+4825	NKX6-1	NK6 homeobox 1
+4831	NME2	non-metastatic cells 2, protein (NM23B) expressed in
+4851	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)
+4853	NOTCH2	Notch homolog 2 (Drosophila)
+4854	NOTCH3	Notch homolog 3 (Drosophila)
+4855	NOTCH4	Notch homolog 4 (Drosophila)
+4861	NPAS1	neuronal PAS domain protein 1
+4862	NPAS2	neuronal PAS domain protein 2
+4899	NRF1	nuclear respiratory factor 1
+4901	NRL	neural retina leucine zipper
+4904	YBX1	Y box binding protein 1
+4929	NR4A2	nuclear receptor subfamily 4, group A, member 2
+4990	SIX6	SIX homeobox 6
+5013	OTX1	orthodenticle homeobox 1
+5015	OTX2	orthodenticle homeobox 2
+5017	OVOL1	ovo-like 1(Drosophila)
+5036	PA2G4	proliferation-associated 2G4, 38kDa
+5075	PAX1	paired box 1
+5076	PAX2	paired box 2
+5077	PAX3	paired box 3
+5078	PAX4	paired box 4
+5079	PAX5	paired box 5
+5080	PAX6	paired box 6
+5081	PAX7	paired box 7
+5083	PAX9	paired box 9
+5087	PBX1	pre-B-cell leukemia homeobox 1
+5089	PBX2	pre-B-cell leukemia homeobox 2
+5090	PBX3	pre-B-cell leukemia homeobox 3
+5201	PFDN1	prefoldin subunit 1
+5241	PGR	progesterone receptor
+5252	PHF1	PHD finger protein 1
+5253	PHF2	PHD finger protein 2
+5307	PITX1	paired-like homeodomain 1
+5308	PITX2	paired-like homeodomain 2
+5309	PITX3	paired-like homeodomain 3
+5316	PKNOX1	PBX/knotted 1 homeobox 1
+5324	PLAG1	pleiomorphic adenoma gene 1
+5325	PLAGL1	pleiomorphic adenoma gene-like 1
+5326	PLAGL2	pleiomorphic adenoma gene-like 2
+5371	PML	promyelocytic leukemia
+5396	PRRX1	paired related homeobox 1
+5449	POU1F1	POU class 1 homeobox 1
+5451	POU2F1	POU class 2 homeobox 1
+5452	POU2F2	POU class 2 homeobox 2
+5453	POU3F1	POU class 3 homeobox 1
+5454	POU3F2	POU class 3 homeobox 2
+5455	POU3F3	POU class 3 homeobox 3
+5456	POU3F4	POU class 3 homeobox 4
+5457	POU4F1	POU class 4 homeobox 1
+5458	POU4F2	POU class 4 homeobox 2
+5459	POU4F3	POU class 4 homeobox 3
+5460	POU5F1	POU class 5 homeobox 1
+5463	POU6F1	POU class 6 homeobox 1
+5465	PPARA	peroxisome proliferator-activated receptor alpha
+5467	PPARD	peroxisome proliferator-activated receptor delta
+5468	PPARG	peroxisome proliferator-activated receptor gamma
+5626	PROP1	PROP paired-like homeobox 1
+5813	PURA	purine-rich element binding protein A
+5814	PURB	purine-rich element binding protein B
+5914	RARA	retinoic acid receptor, alpha
+5915	RARB	retinoic acid receptor, beta
+5916	RARG	retinoic acid receptor, gamma
+5925	RB1	retinoblastoma 1
+5926	ARID4A	AT rich interactive domain 4A (RBP1-like)
+5927	JARID1A	jumonji, AT rich interactive domain 1A
+5933	RBL1	retinoblastoma-like 1 (p107)
+5934	RBL2	retinoblastoma-like 2 (p130)
+5966	REL	v-rel reticuloendotheliosis viral oncogene homolog (avian)
+5970	RELA	v-rel reticuloendotheliosis viral oncogene homolog A (avian)
+5971	RELB	v-rel reticuloendotheliosis viral oncogene homolog B
+5978	REST	RE1-silencing transcription factor
+5987	TRIM27	tripartite motif-containing 27
+5989	RFX1	regulatory factor X, 1 (influences HLA class II expression)
+5990	RFX2	regulatory factor X, 2 (influences HLA class II expression)
+5991	RFX3	regulatory factor X, 3 (influences HLA class II expression)
+5992	RFX4	regulatory factor X, 4 (influences HLA class II expression)
+5993	RFX5	regulatory factor X, 5 (influences HLA class II expression)
+5994	RFXAP	regulatory factor X-associated protein
+6018	RLF	rearranged L-myc fusion
+6047	RNF4	ring finger protein 4
+6049	RNF6	ring finger protein (C3H2C3 type) 6
+6095	RORA	RAR-related orphan receptor A
+6096	RORB	RAR-related orphan receptor B
+6097	RORC	RAR-related orphan receptor C
+6239	RREB1	ras responsive element binding protein 1
+6256	RXRA	retinoid X receptor, alpha
+6257	RXRB	retinoid X receptor, beta
+6258	RXRG	retinoid X receptor, gamma
+6297	SALL2	sal-like 2 (Drosophila)
+6299	SALL1	sal-like 1 (Drosophila)
+6304	SATB1	SATB homeobox 1
+6322	SCML1	sex comb on midleg-like 1 (Drosophila)
+6473	SHOX	short stature homeobox
+6474	SHOX2	short stature homeobox 2
+6492	SIM1	single-minded homolog 1 (Drosophila)
+6493	SIM2	single-minded homolog 2 (Drosophila)
+6495	SIX1	SIX homeobox 1
+6496	SIX3	SIX homeobox 3
+6591	SNAI2	snail homolog 2 (Drosophila)
+6596	HLTF	helicase-like transcription factor
+6597	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+6615	SNAI1	snail homolog 1 (Drosophila)
+6618	SNAPC2	small nuclear RNA activating complex, polypeptide 2, 45kDa
+6621	SNAPC4	small nuclear RNA activating complex, polypeptide 4, 190kDa
+6650	SOLH	small optic lobes homolog (Drosophila)
+6656	SOX1	SRY (sex determining region Y)-box 1
+6657	SOX2	SRY (sex determining region Y)-box 2
+6658	SOX3	SRY (sex determining region Y)-box 3
+6659	SOX4	SRY (sex determining region Y)-box 4
+6660	SOX5	SRY (sex determining region Y)-box 5
+6662	SOX9	SRY (sex determining region Y)-box 9
+6663	SOX10	SRY (sex determining region Y)-box 10
+6664	SOX11	SRY (sex determining region Y)-box 11
+6665	SOX15	SRY (sex determining region Y)-box 15
+6666	SOX12	SRY (sex determining region Y)-box 12
+6667	SP1	Sp1 transcription factor
+6668	SP2	Sp2 transcription factor
+6670	SP3	Sp3 transcription factor
+6671	SP4	Sp4 transcription factor
+6672	SP100	SP100 nuclear antigen
+6688	SPI1	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+6689	SPIB	Spi-B transcription factor (Spi-1/PU.1 related)
+6720	SREBF1	sterol regulatory element binding transcription factor 1
+6721	SREBF2	sterol regulatory element binding transcription factor 2
+6722	SRF	serum response factor (c-fos serum response element-binding transcription factor)
+6736	SRY	sex determining region Y
+6772	STAT1	signal transducer and activator of transcription 1, 91kDa
+6773	STAT2	signal transducer and activator of transcription 2, 113kDa
+6774	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)
+6775	STAT4	signal transducer and activator of transcription 4
+6776	STAT5A	signal transducer and activator of transcription 5A
+6777	STAT5B	signal transducer and activator of transcription 5B
+6778	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced
+6827	SUPT4H1	suppressor of Ty 4 homolog 1 (S. cerevisiae)
+6830	SUPT6H	suppressor of Ty 6 homolog (S. cerevisiae)
+6862	T	T, brachyury homolog (mouse)
+6871	TADA2L	transcriptional adaptor 2 (ADA2 homolog, yeast)-like
+6886	TAL1	T-cell acute lymphocytic leukemia 1
+6887	TAL2	T-cell acute lymphocytic leukemia 2
+6899	TBX1	T-box 1
+6909	TBX2	T-box 2
+6910	TBX5	T-box 5
+6911	TBX6	T-box 6
+6913	TBX15	T-box 15
+6925	TCF4	transcription factor 4
+6926	TBX3	T-box 3
+6927	HNF1A	HNF1 homeobox A
+6928	HNF1B	HNF1 homeobox B
+6929	TCF3	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)
+6932	TCF7	transcription factor 7 (T-cell specific, HMG-box)
+6934	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)
+6935	ZEB1	zinc finger E-box binding homeobox 1
+6936	C2orf3	chromosome 2 open reading frame 3
+6938	TCF12	transcription factor 12
+6939	TCF15	transcription factor 15 (basic helix-loop-helix)
+6940	ZNF354A	zinc finger protein 354A
+6941	TCF19	transcription factor 19 (SC1)
+6942	TCF20	transcription factor 20 (AR1)
+6943	TCF21	transcription factor 21
+6944	VPS72	vacuolar protein sorting 72 homolog (S. cerevisiae)
+6945	MLX	MAX-like protein X
+7003	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)
+7004	TEAD4	TEA domain family member 4
+7005	TEAD3	TEA domain family member 3
+7008	TEF	thyrotrophic embryonic factor
+7019	TFAM	transcription factor A, mitochondrial
+7020	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+7021	TFAP2B	transcription factor AP-2 beta (activating enhancer binding protein 2 beta)
+7022	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)
+7023	TFAP4	transcription factor AP-4 (activating enhancer binding protein 4)
+7024	TFCP2	transcription factor CP2
+7025	NR2F1	nuclear receptor subfamily 2, group F, member 1
+7026	NR2F2	nuclear receptor subfamily 2, group F, member 2
+7027	TFDP1	transcription factor Dp-1
+7029	TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)
+7030	TFE3	transcription factor binding to IGHM enhancer 3
+7050	TGIF1	TGFB-induced factor homeobox 1
+7067	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)
+7068	THRB	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)
+7071	KLF10	Kruppel-like factor 10
+7080	NKX2-1	NK2 homeobox 1
+7091	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)
+7101	NR2E1	nuclear receptor subfamily 2, group E, member 1
+7157	TP53	tumor protein p53
+7161	TP73	tumor protein p73
+7181	NR2C1	nuclear receptor subfamily 2, group C, member 1
+7182	NR2C2	nuclear receptor subfamily 2, group C, member 2
+7227	TRPS1	trichorhinophalangeal syndrome I
+7290	HIRA	HIR histone cell cycle regulation defective homolog A (S. cerevisiae)
+7291	TWIST1	twist homolog 1 (Drosophila)
+7342	UBP1	upstream binding protein 1 (LBP-1a)
+7376	NR1H2	nuclear receptor subfamily 1, group H, member 2
+7391	USF1	upstream transcription factor 1
+7392	USF2	upstream transcription factor 2, c-fos interacting
+7409	VAV1	vav 1 guanine nucleotide exchange factor
+7421	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor
+7468	WHSC1	Wolf-Hirschhorn syndrome candidate 1
+7490	WT1	Wilms tumor 1
+7494	XBP1	X-box binding protein 1
+7528	YY1	YY1 transcription factor
+7538	ZFP36	zinc finger protein 36, C3H type, homolog (mouse)
+7539	ZFP37	zinc finger protein 37 homolog (mouse)
+7541	ZFP161	zinc finger protein 161 homolog (mouse)
+7542	ZFPL1	zinc finger protein-like 1
+7543	ZFX	zinc finger protein, X-linked
+7544	ZFY	zinc finger protein, Y-linked
+7545	ZIC1	Zic family member 1 (odd-paired homolog, Drosophila)
+7546	ZIC2	Zic family member 2 (odd-paired homolog, Drosophila)
+7547	ZIC3	Zic family member 3 (odd-paired homolog, Drosophila)
+7549	ZNF2	zinc finger protein 2
+7551	ZNF3	zinc finger protein 3
+7552	ZNF711	zinc finger protein 711
+7553	ZNF7	zinc finger protein 7
+7554	ZNF8	zinc finger protein 8
+7555	CNBP	CCHC-type zinc finger, nucleic acid binding protein
+7556	ZNF10	zinc finger protein 10
+7559	ZNF12	zinc finger protein 12
+7561	ZNF14	zinc finger protein 14
+7562	ZNF708	zinc finger protein 708
+7564	ZNF16	zinc finger protein 16
+7565	ZNF17	zinc finger protein 17
+7566	ZNF18	zinc finger protein 18
+7567	ZNF19	zinc finger protein 19
+7568	ZNF20	zinc finger protein 20
+7569	ZNF182	zinc finger protein 182
+7570	ZNF22	zinc finger protein 22 (KOX 15)
+7571	ZNF23	zinc finger protein 23 (KOX 16)
+7572	ZNF24	zinc finger protein 24
+7574	ZNF26	zinc finger protein 26
+7576	ZNF28	zinc finger protein 28
+7579	ZSCAN20	zinc finger and SCAN domain containing 20
+7580	ZNF32	zinc finger protein 32
+7581	ZNF33A	zinc finger protein 33A
+7582	ZNF33B	zinc finger protein 33B
+7584	ZNF35	zinc finger protein 35
+7586	ZKSCAN1	zinc finger with KRAB and SCAN domains 1
+7587	ZNF37A	zinc finger protein 37A
+7589	ZSCAN21	zinc finger and SCAN domain containing 21
+7592	ZNF41	zinc finger protein 41
+7593	MZF1	myeloid zinc finger 1
+7594	ZNF43	zinc finger protein 43
+7596	ZNF45	zinc finger protein 45
+7597	ZBTB25	zinc finger and BTB domain containing 25
+7599	ZNF48	zinc finger protein 48
+7607	ZNF55	zinc finger protein 55
+7608	ZNF56	zinc finger protein 56
+7617	ZNF66	zinc finger protein 66
+7620	ZNF69	zinc finger protein 69
+7621	ZNF70	zinc finger protein 70
+7623	ZNF72	zinc finger protein 72
+7624	ZNF73	zinc finger protein 73
+7625	ZNF74	zinc finger protein 74
+7626	ZNF75D	zinc finger protein 75D
+7627	ZNF75A	zinc finger protein 75a
+7629	ZNF76	zinc finger protein 76 (expressed in testis)
+7633	ZNF79	zinc finger protein 79
+7634	ZNF80	zinc finger protein 80
+7637	ZNF84	zinc finger protein 84
+7638	ZNF221	zinc finger protein 221
+7639	ZNF85	zinc finger protein 85
+7643	ZNF90	zinc finger protein 90
+7644	ZNF91	zinc finger protein 91
+7652	ZNF99	zinc finger protein 99
+7673	ZNF222	zinc finger protein 222
+7675	ZNF121	zinc finger protein 121
+7678	ZNF124	zinc finger protein 124
+7690	ZNF131	zinc finger protein 131
+7691	ZNF132	zinc finger protein 132
+7692	ZNF133	zinc finger protein 133
+7693	ZNF134	zinc finger protein 134
+7694	ZNF135	zinc finger protein 135
+7695	ZNF136	zinc finger protein 136
+7697	ZNF138	zinc finger protein 138
+7699	ZNF140	zinc finger protein 140
+7700	ZNF141	zinc finger protein 141
+7701	ZNF142	zinc finger protein 142
+7703	PCGF2	polycomb group ring finger 2
+7704	ZBTB16	zinc finger and BTB domain containing 16
+7705	ZNF146	zinc finger protein 146
+7706	TRIM25	tripartite motif-containing 25
+7707	ZNF148	zinc finger protein 148
+7709	ZBTB17	zinc finger and BTB domain containing 17
+7710	ZNF154	zinc finger protein 154
+7711	ZNF155	zinc finger protein 155
+7712	ZNF157	zinc finger protein 157
+7716	VEZF1	vascular endothelial zinc finger 1
+7718	ZNF165	zinc finger protein 165
+7727	ZNF174	zinc finger protein 174
+7728	ZNF175	zinc finger protein 175
+7729	ZNF176	zinc finger protein 176
+7730	ZNF177	zinc finger protein 177
+7733	ZNF180	zinc finger protein 180
+7738	ZNF184	zinc finger protein 184
+7739	ZNF185	zinc finger protein 185 (LIM domain)
+7741	ZNF187	zinc finger protein 187
+7743	ZNF189	zinc finger protein 189
+7745	ZNF192	zinc finger protein 192
+7746	ZNF193	zinc finger protein 193
+7748	ZNF195	zinc finger protein 195
+7750	ZMYM2	zinc finger, MYM-type 2
+7752	ZNF200	zinc finger protein 200
+7753	ZNF202	zinc finger protein 202
+7755	ZNF205	zinc finger protein 205
+7756	ZNF207	zinc finger protein 207
+7757	ZNF208	zinc finger protein 208
+7760	ZNF213	zinc finger protein 213
+7761	ZNF214	zinc finger protein 214
+7762	ZNF215	zinc finger protein 215
+7763	ZFAND5	zinc finger, AN1-type domain 5
+7764	ZNF217	zinc finger protein 217
+7766	ZNF223	zinc finger protein 223
+7767	ZNF224	zinc finger protein 224
+7768	ZNF225	zinc finger protein 225
+7769	ZNF226	zinc finger protein 226
+7770	ZNF227	zinc finger protein 227
+7771	ZFP112	zinc finger protein 112 homolog (mouse)
+7772	ZNF229	zinc finger protein 229
+7773	ZNF230	zinc finger protein 230
+7775	ZNF232	zinc finger protein 232
+7776	ZNF236	zinc finger protein 236
+7789	ZXDA	zinc finger, X-linked, duplicated A
+7799	PRDM2	PR domain containing 2, with ZNF domain
+7849	PAX8	paired box 8
+7862	BRPF1	bromodomain and PHD finger containing, 1
+7942	TFEB	transcription factor EB
+7975	MAFK	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+7988	ZNF212	zinc finger protein 212
+8013	NR4A3	nuclear receptor subfamily 4, group A, member 3
+8022	LHX3	LIM homeobox 3
+8028	MLLT10	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10
+8061	FOSL1	FOS-like antigen 1
+8089	YEATS4	YEATS domain containing 4
+8091	HMGA2	high mobility group AT-hook 2
+8092	ALX1	ALX homeobox 1
+8187	ZNF239	zinc finger protein 239
+8216	LZTR1	leucine-zipper-like transcription regulator 1
+8233	ZRSR2	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 2
+8242	JARID1C	jumonji, AT rich interactive domain 1C
+8320	EOMES	eomesodermin homolog (Xenopus laevis)
+8328	GFI1B	growth factor independent 1B transcription repressor
+8403	SOX14	SRY (sex determining region Y)-box 14
+8427	ZNF282	zinc finger protein 282
+8431	NR0B2	nuclear receptor subfamily 0, group B, member 2
+8433	UTF1	undifferentiated embryonic cell transcription factor 1
+8456	FOXN1	forkhead box N1
+8462	KLF11	Kruppel-like factor 11
+8463	TEAD2	TEA domain family member 2
+8521	GCM1	glial cells missing homolog 1 (Drosophila)
+8522	GAS7	growth arrest-specific 7
+8531	CSDA	cold shock domain protein A
+8538	BARX2	BARX homeobox 2
+8543	LMO4	LIM domain only 4
+8545	CGGBP1	CGG triplet repeat binding protein 1
+8548	BLZF1	basic leucine zipper nuclear factor 1
+8553	BHLHB2	basic helix-loop-helix domain containing, class B, 2
+8609	KLF7	Kruppel-like factor 7 (ubiquitous)
+8625	RFXANK	regulatory factor X-associated ankyrin-containing protein
+8626	TP63	tumor protein p63
+8721	EDF1	endothelial differentiation-related factor 1
+8820	HESX1	HESX homeobox 1
+8848	TSC22D1	TSC22 domain family, member 1
+8856	NR1I2	nuclear receptor subfamily 1, group I, member 2
+8880	FUBP1	far upstream element (FUSE) binding protein 1
+8882	ZNF259	zinc finger protein 259
+8896	BUD31	BUD31 homolog (S. cerevisiae)
+8928	FOXH1	forkhead box H1
+8929	PHOX2B	paired-like homeobox 2b
+8939	FUBP3	far upstream element (FUSE) binding protein 3
+9014	TAF1B	TATA box binding protein (TBP)-associated factor, RNA polymerase I, B, 63kDa
+9031	BAZ1B	bromodomain adjacent to zinc finger domain, 1B
+9044	BTAF1	BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, 170kDa (Mot1 homolog, S. cerevisiae)
+9070	ASH2L	ash2 (absent, small, or homeotic)-like (Drosophila)
+9095	TBX19	T-box 19
+9096	TBX18	T-box 18
+9112	MTA1	metastasis associated 1
+9139	CBFA2T2	core-binding factor, runt domain, alpha subunit 2; translocated to, 2
+9189	ZBED1	zinc finger, BED-type containing 1
+9202	ZMYM4	zinc finger, MYM-type 4
+9203	ZMYM3	zinc finger, MYM-type 3
+9204	ZMYM6	zinc finger, MYM-type 6
+9205	ZMYM5	zinc finger, MYM-type 5
+9219	MTA2	metastasis associated 1 family, member 2
+9232	PTTG1	pituitary tumor-transforming 1
+9242	MSC	musculin (activated B-cell factor-1)
+9247	GCM2	glial cells missing homolog 2 (Drosophila)
+9278	ZBTB22	zinc finger and BTB domain containing 22
+9310	ZNF235	zinc finger protein 235
+9314	KLF4	Kruppel-like factor 4 (gut)
+9326	ZNHIT3	zinc finger, HIT type 3
+9337	CNOT8	CCR4-NOT transcription complex, subunit 8
+9355	LHX2	LIM homeobox 2
+9372	ZFYVE9	zinc finger, FYVE domain containing 9
+9406	ZRANB2	zinc finger, RAN-binding domain containing 2
+9421	HAND1	heart and neural crest derivatives expressed 1
+9422	ZNF264	zinc finger protein 264
+9464	HAND2	heart and neural crest derivatives expressed 2
+9479	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1
+9480	ONECUT2	one cut homeobox 2
+9496	TBX4	T-box 4
+9516	LITAF	lipopolysaccharide-induced TNF factor
+9534	ZNF254	zinc finger protein 254
+9541	CIR	CBF1 interacting corepressor
+9569	GTF2IRD1	GTF2I repeat domain containing 1
+9572	NR1D1	nuclear receptor subfamily 1, group D, member 1
+9575	CLOCK	clock homolog (mouse)
+9580	SOX13	SRY (sex determining region Y)-box 13
+9586	CREB5	cAMP responsive element binding protein 5
+9603	NFE2L3	nuclear factor (erythroid-derived 2)-like 3
+9611	NCOR1	nuclear receptor co-repressor 1
+9640	ZNF592	zinc finger protein 592
+9658	ZNF516	zinc finger protein 516
+9666	DZIP3	DAZ interacting protein 3, zinc finger
+9668	ZNF432	zinc finger protein 432
+9705	ST18	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)
+9726	ZNF646	zinc finger protein 646
+9735	KNTC1	kinetochore associated 1
+9745	ZNF536	zinc finger protein 536
+9757	MLL4	myeloid/lymphoid or mixed-lineage leukemia 4
+9760	TOX	thymocyte selection-associated high mobility group box
+9765	ZFYVE16	zinc finger, FYVE domain containing 16
+9774	BCLAF1	BCL2-associated transcription factor 1
+9819	TSC22D2	TSC22 domain family, member 2
+9831	ZNF623	zinc finger protein 623
+9839	ZEB2	zinc finger E-box binding homeobox 2
+9841	ZBTB24	zinc finger and BTB domain containing 24
+9849	ZNF518A	zinc finger protein 518A
+9877	ZC3H11A	zinc finger CCCH-type containing 11A
+9878	TOX4	TOX high mobility group box family member 4
+9880	ZBTB39	zinc finger and BTB domain containing 39
+9889	ZBED4	zinc finger, BED-type containing 4
+9907	KIAA0415	KIAA0415
+9915	ARNT2	aryl-hydrocarbon receptor nuclear translocator 2
+9923	ZBTB40	zinc finger and BTB domain containing 40
+9925	ZBTB5	zinc finger and BTB domain containing 5
+9931	HELZ	helicase with zinc finger
+9935	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)
+9970	NR1I3	nuclear receptor subfamily 1, group I, member 3
+9971	NR1H4	nuclear receptor subfamily 1, group H, member 4
+9975	NR1D2	nuclear receptor subfamily 1, group D, member 2
+9988	DMTF1	cyclin D binding myb-like transcription factor 1
+10002	NR2E3	nuclear receptor subfamily 2, group E, member 3
+10009	ZBTB33	zinc finger and BTB domain containing 33
+10042	HMG2L1	high-mobility group protein 2-like 1
+10062	NR1H3	nuclear receptor subfamily 1, group H, member 3
+10113	PREB	prolactin regulatory element binding
+10127	ZNF263	zinc finger protein 263
+10153	CEBPZ	CCAAT/enhancer binding protein (C/EBP), zeta
+10155	TRIM28	tripartite motif-containing 28
+10168	ZNF197	zinc finger protein 197
+10172	ZNF256	zinc finger protein 256
+10194	TSHZ1	teashirt zinc finger homeobox 1
+10215	OLIG2	oligodendrocyte lineage transcription factor 2
+10224	ZNF443	zinc finger protein 443
+10260	DENND4A	DENN/MADD domain containing 4A
+10265	IRX5	iroquois homeobox 5
+10302	SNAPC5	small nuclear RNA activating complex, polypeptide 5, 19kDa
+10308	ZNF267	zinc finger protein 267
+10320	IKZF1	IKAROS family zinc finger 1 (Ikaros)
+10346	TRIM22	tripartite motif-containing 22
+10357	HMG1L1	high-mobility group (nonhistone chromosomal) protein 1-like 1
+10362	HMG20B	high-mobility group 20B
+10363	HMG20A	high-mobility group 20A
+10365	KLF2	Kruppel-like factor 2 (lung)
+10370	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2
+10379	IRF9	interferon regulatory factor 9
+10380	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1
+10389	SCML2	sex comb on midleg-like 2 (Drosophila)
+10463	SLC30A9	solute carrier family 30 (zinc transporter), member 9
+10467	ZNHIT1	zinc finger, HIT type 1
+10472	ZNF238	zinc finger protein 238
+10474	TADA3L	transcriptional adaptor 3 (NGG1 homolog, yeast)-like
+10481	HOXB13	homeobox B13
+10488	CREB3	cAMP responsive element binding protein 3
+10520	ZNF211	zinc finger protein 211
+10538	BATF	basic leucine zipper transcription factor, ATF-like
+10573	MRPL28	mitochondrial ribosomal protein L28
+10589	DRAP1	DR1-associated protein 1 (negative cofactor 2 alpha)
+10608	MXD4	MAX dimerization protein 4
+10616	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1
+10655	DMRT2	doublesex and mab-3 related transcription factor 2
+10660	LBX1	ladybird homeobox 1
+10661	KLF1	Kruppel-like factor 1 (erythroid)
+10664	CTCF	CCCTC-binding factor (zinc finger protein)
+10691	GMEB1	glucocorticoid modulatory element binding protein 1
+10716	TBR1	T-box, brain, 1
+10725	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive
+10732	TCFL5	transcription factor-like 5 (basic helix-loop-helix)
+10736	SIX2	SIX homeobox 2
+10745	PHTF1	putative homeodomain transcription factor 1
+10765	JARID1B	jumonji, AT rich interactive domain 1B
+10771	ZMYND11	zinc finger, MYND domain containing 11
+10773	ZBTB6	zinc finger and BTB domain containing 6
+10778	ZNF271	zinc finger protein 271
+10780	ZNF234	zinc finger protein 234
+10781	ZNF266	zinc finger protein 266
+10782	ZNF274	zinc finger protein 274
+10793	ZNF273	zinc finger protein 273
+10794	ZNF460	zinc finger protein 460
+10795	ZNF268	zinc finger protein 268
+10838	ZNF275	zinc finger protein 275
+10902	BRD8	bromodomain containing 8
+10906	TRAFD1	TRAF-type zinc finger domain containing 1
+10943	MSL3L1	male-specific lethal 3-like 1 (Drosophila)
+11016	ATF7	activating transcription factor 7
+11023	VAX1	ventral anterior homeobox 1
+11063	SOX30	SRY (sex determining region Y)-box 30
+11105	PRDM7	PR domain containing 7
+11107	PRDM5	PR domain containing 5
+11108	PRDM4	PR domain containing 4
+11143	MYST2	MYST histone acetyltransferase 2
+11166	SOX21	SRY (sex determining region Y)-box 21
+11169	WDHD1	WD repeat and HMG-box DNA binding protein 1
+11176	BAZ2A	bromodomain adjacent to zinc finger domain, 2A
+11177	BAZ1A	bromodomain adjacent to zinc finger domain, 1A
+11178	LZTS1	leucine zipper, putative tumor suppressor 1
+11179	ZNF277	zinc finger protein 277
+11189	TNRC4	trinucleotide repeat containing 4
+11244	ZHX1	zinc fingers and homeoboxes 1
+11262	SP140	SP140 nuclear body protein
+11278	KLF12	Kruppel-like factor 12
+11279	KLF8	Kruppel-like factor 8
+11281	POU6F2	POU class 6 homeobox 2
+11317	RBPJL	recombination signal binding protein for immunoglobulin kappa J region-like
+22797	TFEC	transcription factor EC
+22806	IKZF3	IKAROS family zinc finger 3 (Aiolos)
+22807	IKZF2	IKAROS family zinc finger 2 (Helios)
+22809	ATF5	activating transcription factor 5
+22823	MTF2	metal response element binding transcription factor 2
+22830	ZNF409	zinc finger protein 409
+22834	ZNF652	zinc finger protein 652
+22835	ZFP30	zinc finger protein 30 homolog (mouse)
+22847	ZNF507	zinc finger protein 507
+22850	ADNP2	ADNP homeobox 2
+22869	ZNF510	zinc finger protein 510
+22877	MLXIP	MLX interacting protein
+22880	MORC2	MORC family CW-type zinc finger 2
+22882	ZHX2	zinc fingers and homeoboxes 2
+22887	FOXJ3	forkhead box J3
+22890	ZBTB1	zinc finger and BTB domain containing 1
+22891	ZNF365	zinc finger protein 365
+22921	MSRB2	methionine sulfoxide reductase B2
+22926	ATF6	activating transcription factor 6
+22947	DUX4	double homeobox, 4
+22955	SCMH1	sex comb on midleg homolog 1 (Drosophila)
+22980	TCF25	transcription factor 25 (basic helix-loop-helix)
+23013	SPEN	spen homolog, transcriptional regulator (Drosophila)
+23028	AOF2	amine oxidase (flavin containing) domain 2
+23036	ZNF292	zinc finger protein 292
+23040	MYT1L	myelin transcription factor 1-like
+23051	ZHX3	zinc fingers and homeoboxes 3
+23060	ZNF609	zinc finger protein 609
+23090	ZNF423	zinc finger protein 423
+23091	ZC3H13	zinc finger CCCH-type containing 13
+23099	ZBTB43	zinc finger and BTB domain containing 43
+23119	HIC2	hypermethylated in cancer 2
+23140	ZZEF1	zinc finger, ZZ-type with EF-hand domain 1
+23144	ZC3H3	zinc finger CCCH-type containing 3
+23152	CIC	capicua homolog (Drosophila)
+23174	ZCCHC14	zinc finger, CCHC domain containing 14
+23211	ZC3H4	zinc finger CCCH-type containing 4
+23217	ZFR2	zinc finger RNA binding protein 2
+23261	CAMTA1	calmodulin binding transcription activator 1
+23264	ZC3H7B	zinc finger CCCH-type containing 7B
+23269	MGA	MAX gene associated
+23314	SATB2	SATB homeobox 2
+23316	CUX2	cut-like homeobox 2
+23318	ZCCHC11	zinc finger, CCHC domain containing 11
+23361	ZNF629	zinc finger protein 629
+23390	ZDHHC17	zinc finger, DHHC-type containing 17
+23394	ADNP	activity-dependent neuroprotector homeobox
+23414	ZFPM2	zinc finger protein, multitype 2
+23435	TARDBP	TAR DNA binding protein
+23440	OTP	orthopedia homeobox
+23462	HEY1	hairy/enhancer-of-split related with YRPW motif 1
+23493	HEY2	hairy/enhancer-of-split related with YRPW motif 2
+23503	ZFYVE26	zinc finger, FYVE domain containing 26
+23515	MORC3	MORC family CW-type zinc finger 3
+23528	ZNF281	zinc finger protein 281
+23567	ZNF346	zinc finger protein 346
+23589	CARHSP1	calcium regulated heat stable protein 1, 24kDa
+23598	PATZ1	POZ (BTB) and AT hook containing zinc finger 1
+23613	ZMYND8	zinc finger, MYND-type containing 8
+23619	ZIM2	zinc finger, imprinted 2
+23650	TRIM29	tripartite motif-containing 29
+23660	ZKSCAN5	zinc finger with KRAB and SCAN domains 5
+23764	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+23777	ATF4B	activating transcription factor 4B
+23778	ATF4C	activating transcription factor 4C
+24149	ZNF318	zinc finger protein 318
+25792	CIZ1	CDKN1A interacting zinc finger protein 1
+25799	ZNF324	zinc finger protein 324
+25803	SPDEF	SAM pointed domain containing ets transcription factor
+25806	VAX2	ventral anterior homeobox 2
+25819	CCRN4L	CCR4 carbon catabolite repression 4-like (S. cerevisiae)
+25833	POU2F3	POU class 2 homeobox 3
+25888	ZNF473	zinc finger protein 473
+25898	RCHY1	ring finger and CHY zinc finger domain containing 1
+25909	AHCTF1	AT hook containing transcription factor 1
+25921	ZDHHC5	zinc finger, DHHC-type containing 5
+25925	ZNF521	zinc finger protein 521
+25946	ZNF385A	zinc finger protein 385A
+25988	MIZF	MBD2-interacting zinc finger
+26009	ZZZ3	zinc finger, ZZ-type containing 3
+26013	L3MBTL	l(3)mbt-like (Drosophila)
+26036	ZNF451	zinc finger protein 451
+26046	ZNF294	zinc finger protein 294
+26048	ZNF500	zinc finger protein 500
+26137	ZBTB20	zinc finger and BTB domain containing 20
+26149	ZNF658	zinc finger protein 658
+26152	ZNF337	zinc finger protein 337
+26257	NKX2-8	NK2 homeobox 8
+26298	EHF	ets homologous factor
+26468	LHX6	LIM homeobox 6
+26508	HEYL	hairy/enhancer-of-split related with YRPW motif-like
+26574	AATF	apoptosis antagonizing transcription factor
+26582	DUX3	double homeobox, 3
+26584	DUX1	double homeobox, 1
+26959	HBP1	HMG-box transcription factor 1
+26974	ZNF285A	zinc finger protein 285A
+27022	FOXD3	forkhead box D3
+27023	FOXB1	forkhead box B1
+27033	ZBTB32	zinc finger and BTB domain containing 32
+27063	ANKRD1	ankyrin repeat domain 1 (cardiac muscle)
+27086	FOXP1	forkhead box P1
+27097	TAF5L	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa
+27107	ZBTB11	zinc finger and BTB domain containing 11
+27125	AFF4	AF4/FMR2 family, member 4
+27136	MORC1	MORC family CW-type zinc finger 1
+27153	ZNF777	zinc finger protein 777
+27164	SALL3	sal-like 3 (Drosophila)
+27287	VENTX	VENT homeobox homolog (Xenopus laevis)
+27300	ZNF544	zinc finger protein 544
+27309	ZNF330	zinc finger protein 330
+27324	TOX3	TOX high mobility group box family member 3
+27332	ZNF638	zinc finger protein 638
+28999	KLF15	Kruppel-like factor 15
+29063	ZCCHC4	zinc finger, CCHC domain containing 4
+29066	ZC3H7A	zinc finger CCCH-type containing 7A
+29068	ZBTB44	zinc finger and BTB domain containing 44
+29128	UHRF1	ubiquitin-like with PHD and ring finger domains 1
+29800	ZDHHC1	zinc finger, DHHC-type containing 1
+29801	ZDHHC8	zinc finger, DHHC-type containing 8
+29841	GRHL1	grainyhead-like 1 (Drosophila)
+29842	TFCP2L1	transcription factor CP2-like 1
+29855	UBN1	ubinuclein 1
+29883	CNOT7	CCR4-NOT transcription complex, subunit 7
+29956	LASS2	LAG1 homolog, ceramide synthase 2
+29994	BAZ2B	bromodomain adjacent to zinc finger domain, 2B
+30009	TBX21	T-box 21
+30012	TLX3	T-cell leukemia homeobox 3
+30062	RAX	retina and anterior neural fold homeobox
+30812	SOX8	SRY (sex determining region Y)-box 8
+30813	VSX1	visual system homeobox 1
+30827	CXXC1	CXXC finger 1 (PHD domain)
+30832	ZNF354C	zinc finger protein 354C
+49854	ZNF295	zinc finger protein 295
+50674	NEUROG3	neurogenin 3
+50804	MYEF2	myelin expression factor 2
+50805	IRX4	iroquois homeobox 4
+50862	RNF141	ring finger protein 141
+50943	FOXP3	forkhead box P3
+50945	TBX22	T-box 22
+51042	ZNF593	zinc finger protein 593
+51043	ZBTB7B	zinc finger and BTB domain containing 7B
+51058	ZNF691	zinc finger protein 691
+51085	MLXIPL	MLX interacting protein-like
+51087	YBX2	Y box binding protein 2
+51114	ZDHHC9	zinc finger, DHHC-type containing 9
+51123	ZNF706	zinc finger protein 706
+51157	ZNF580	zinc finger protein 580
+51176	LEF1	lymphoid enhancer-binding factor 1
+51193	ZNF639	zinc finger protein 639
+51201	ZDHHC2	zinc finger, DHHC-type containing 2
+51222	ZNF219	zinc finger protein 219
+51230	PHF20	PHD finger protein 20
+51270	TFDP3	transcription factor Dp family, member 3
+51274	KLF3	Kruppel-like factor 3 (basic)
+51276	ZNF571	zinc finger protein 571
+51282	SCAND1	SCAN domain containing 1
+51295	ECSIT	ECSIT homolog (Drosophila)
+51304	ZDHHC3	zinc finger, DHHC-type containing 3
+51333	ZNF771	zinc finger protein 771
+51341	ZBTB7A	zinc finger and BTB domain containing 7A
+51351	ZNF117	zinc finger protein 117
+51364	ZMYND10	zinc finger, MYND-type containing 10
+51385	ZNF589	zinc finger protein 589
+51402	HSFX1	heat shock transcription factor family, X linked 1
+51427	ZNF107	zinc finger protein 107
+51450	PRRX2	paired related homeobox 2
+51513	ETV7	ets variant 7
+51530	ZC3HC1	zinc finger, C3HC-type containing 1
+51538	ZCCHC17	zinc finger, CCHC domain containing 17
+51545	ZNF581	zinc finger protein 581
+51621	KLF13	Kruppel-like factor 13
+51663	ZFR	zinc finger RNA binding protein
+51710	ZNF44	zinc finger protein 44
+51804	SIX4	SIX homeobox 4
+53335	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)
+53349	ZFYVE1	zinc finger, FYVE domain containing 1
+54345	SOX18	SRY (sex determining region Y)-box 18
+54469	ZFAND6	zinc finger, AN1-type domain 6
+54503	ZDHHC13	zinc finger, DHHC-type containing 13
+54531	MIER2	mesoderm induction early response 1, family member 2
+54542	RC3H2	ring finger and CCCH-type zinc finger domains 2
+54585	LZTFL1	leucine zipper transcription factor-like 1
+54626	HES2	hairy and enhancer of split 2 (Drosophila)
+54680	ZNHIT6	zinc finger, HIT type 6
+54729	NKX1-1	NK1 homeobox 1
+54738	FEV	FEV (ETS oncogene family)
+54753	ZNF853	zinc finger protein 853
+54764	ZRANB1	zinc finger, RAN-binding domain containing 1
+54796	BNC2	basonuclin 2
+54807	ZNF586	zinc finger protein 586
+54811	ZNF562	zinc finger protein 562
+54815	GATAD2A	GATA zinc finger domain containing 2A
+54816	ZNF280D	zinc finger protein 280D
+54819	ZCCHC10	zinc finger, CCHC domain containing 10
+54856	GON4L	gon-4-like (C. elegans)
+54862	CC2D1A	coiled-coil and C2 domain containing 1A
+54877	ZCCHC2	zinc finger, CCHC domain containing 2
+54897	CASZ1	castor zinc finger 1
+54925	ZNF434	zinc finger protein 434
+54937	SOHLH2	spermatogenesis and oogenesis specific basic helix-loop-helix 2
+54989	ZNF770	zinc finger protein 770
+54993	ZSCAN2	zinc finger and SCAN domain containing 2
+55063	ZCWPW1	zinc finger, CW type with PWWP domain 1
+55079	FEZF2	FEZ family zinc finger 2
+55081	IFT57	intraflagellar transport 57 homolog (Chlamydomonas)
+55139	ANKZF1	ankyrin repeat and zinc finger domain containing 1
+55146	ZDHHC4	zinc finger, DHHC-type containing 4
+55205	ZNF532	zinc finger protein 532
+55279	ZNF654	zinc finger protein 654
+55294	FBXW7	F-box and WD repeat domain containing 7
+55311	ZNF444	zinc finger protein 444
+55422	ZNF331	zinc finger protein 331
+55502	HES6	hairy and enhancer of split 6 (Drosophila)
+55509	BATF3	basic leucine zipper transcription factor, ATF-like 3
+55534	MAML3	mastermind-like 3 (Drosophila)
+55552	ZNF823	zinc finger protein 823
+55553	SOX6	SRY (sex determining region Y)-box 6
+55565	ZNF821	zinc finger protein 821
+55596	ZCCHC8	zinc finger, CCHC domain containing 8
+55609	ZNF280C	zinc finger protein 280C
+55625	ZDHHC7	zinc finger, DHHC-type containing 7
+55628	ZNF407	zinc finger protein 407
+55634	ZNF673	zinc finger family member 673
+55657	ZNF692	zinc finger protein 692
+55659	ZNF416	zinc finger protein 416
+55663	ZNF446	zinc finger protein 446
+55713	ZNF334	zinc finger protein 334
+55734	ZFP64	zinc finger protein 64 homolog (mouse)
+55762	ZNF701	zinc finger protein 701
+55769	ZNF83	zinc finger protein 83
+55778	ZNF839	zinc finger protein 839
+55786	ZNF415	zinc finger protein 415
+55806	HR	hairless homolog (mouse)
+55809	TRERF1	transcriptional regulating factor 1
+55810	FOXJ2	forkhead box J2
+55854	ZC3H15	zinc finger CCCH-type containing 15
+55870	ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)
+55888	ZNF167	zinc finger protein 167
+55892	MYNN	myoneurin
+55893	ZNF395	zinc finger protein 395
+55897	MESP1	mesoderm posterior 1 homolog (mouse)
+55900	ZNF302	zinc finger protein 302
+55906	ZC4H2	zinc finger, C4H2 domain containing
+55922	NKRF	NFKB repressing factor
+55929	DMAP1	DNA methyltransferase 1 associated protein 1
+55954	ZMAT5	zinc finger, matrin type 5
+56033	BARX1	BARX homeobox 1
+56242	ZNF253	zinc finger protein 253
+56676	ASCL3	achaete-scute complex homolog 3 (Drosophila)
+56731	SLC2A4RG	SLC2A4 regulator
+56751	BARHL1	BarH-like homeobox 1
+56829	ZC3HAV1	zinc finger CCCH-type, antiviral 1
+56917	MEIS3	Meis homeobox 3
+56938	ARNTL2	aryl hydrocarbon receptor nuclear translocator-like 2
+56956	LHX9	LIM homeobox 9
+56978	PRDM8	PR domain containing 8
+56979	PRDM9	PR domain containing 9
+56980	PRDM10	PR domain containing 10
+56987	BBX	bobby sox homolog (Drosophila)
+56995	TULP4	tubby like protein 4
+57057	TBX20	T-box 20
+57106	NAT14	N-acetyltransferase 14 (GCN5-related, putative)
+57109	REXO4	REX4, RNA exonuclease 4 homolog (S. cerevisiae)
+57116	ZNF695	zinc finger protein 695
+57157	PHTF2	putative homeodomain transcription factor 2
+57167	SALL4	sal-like 4 (Drosophila)
+57169	ZNFX1	zinc finger, NFX1-type containing 1
+57178	ZMIZ1	zinc finger, MIZ-type containing 1
+57209	ZNF248	zinc finger protein 248
+57232	ZNF630	zinc finger protein 630
+57335	ZNF286A	zinc finger protein 286A
+57336	ZNF287	zinc finger protein 287
+57343	ZNF304	zinc finger protein 304
+57410	SCYL1	SCY1-like 1 (S. cerevisiae)
+57459	GATAD2B	GATA zinc finger domain containing 2B
+57473	ZNF512B	zinc finger protein 512B
+57474	ZNF490	zinc finger protein 490
+57504	MTA3	metastasis associated 1 family, member 3
+57507	ZNF608	zinc finger protein 608
+57541	ZNF398	zinc finger protein 398
+57547	ZNF624	zinc finger protein 624
+57567	ZNF319	zinc finger protein 319
+57573	ZNF471	zinc finger protein 471
+57592	ZNF687	zinc finger protein 687
+57593	EBF4	early B-cell factor 4
+57594	HOMEZ	homeobox and leucine zipper encoding
+57615	ZNF492	zinc finger protein 492
+57616	TSHZ3	teashirt zinc finger homeobox 3
+57621	ZBTB2	zinc finger and BTB domain containing 2
+57623	ZFAT	zinc finger and AT hook domain containing
+57643	ZSWIM5	zinc finger, SWIM-type containing 5
+57659	ZBTB4	zinc finger and BTB domain containing 4
+57677	ZFP14	zinc finger protein 14 homolog (mouse)
+57683	ZDBF2	zinc finger, DBF-type containing 2
+57684	ZBTB26	zinc finger and BTB domain containing 26
+57688	ZSWIM6	zinc finger, SWIM-type containing 6
+57693	ZNF317	zinc finger protein 317
+57708	MIER1	mesoderm induction early response 1 homolog (Xenopus laevis)
+57711	ZNF529	zinc finger protein 529
+57732	ZFYVE28	zinc finger, FYVE domain containing 28
+57786	RBAK	RB-associated KRAB zinc finger
+57798	GATAD1	GATA zinc finger domain containing 1
+57801	HES4	hairy and enhancer of split 4 (Drosophila)
+57822	GRHL3	grainyhead-like 3 (Drosophila)
+57862	ZNF410	zinc finger protein 410
+58158	NEUROD4	neurogenic differentiation 4
+58160	NF-E4	transcription factor NF-E4
+58487	CREBZF	CREB/ATF bZIP transcription factor
+58491	ZNF71	zinc finger protein 71
+58492	ZNF77	zinc finger protein 77
+58495	OVOL2	ovo-like 2 (Drosophila)
+58499	ZNF462	zinc finger protein 462
+58500	ZNF250	zinc finger protein 250
+58524	DMRT3	doublesex and mab-3 related transcription factor 3
+58525	WIZ	widely interspaced zinc finger motifs
+59269	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3
+59335	PRDM12	PR domain containing 12
+59336	PRDM13	PR domain containing 13
+59348	ZNF350	zinc finger protein 350
+60313	GPBP1L1	GC-rich promoter binding protein 1-like 1
+60436	TGIF2	TGFB-induced factor homeobox 2
+60468	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+60529	ALX4	aristaless-like homeobox 4
+60685	ZFAND3	zinc finger, AN1-type domain 3
+63876	PKNOX2	PBX/knotted 1 homeobox 2
+63925	ZNF335	zinc finger protein 335
+63934	ZNF667	zinc finger protein 667
+63946	DMRTC2	DMRT-like family C2
+63948	DMRTB1	DMRT-like family B with proline-rich C-terminal, 1
+63950	DMRTA2	DMRT-like family A2
+63951	DMRTA1	DMRT-like family A1
+63973	NEUROG2	neurogenin 2
+63974	NEUROD6	neurogenic differentiation 6
+63976	PRDM16	PR domain containing 16
+63977	PRDM15	PR domain containing 15
+63978	PRDM14	PR domain containing 14
+64067	NPAS3	neuronal PAS domain protein 3
+64145	ZFYVE20	zinc finger, FYVE domain containing 20
+64211	LHX5	LIM homeobox 5
+64288	ZNF323	zinc finger protein 323
+64321	SOX17	SRY (sex determining region Y)-box 17
+64344	HIF3A	hypoxia inducible factor 3, alpha subunit
+64375	IKZF4	IKAROS family zinc finger 4 (Eos)
+64376	IKZF5	IKAROS family zinc finger 5 (Pegasus)
+64393	ZMAT3	zinc finger, matrin type 3
+64397	ZFP106	zinc finger protein 106 homolog (mouse)
+64412	GZF1	GDNF-inducible zinc finger protein 1
+64429	ZDHHC6	zinc finger, DHHC-type containing 6
+64641	EBF2	early B-cell factor 2
+64651	AXUD1	AXIN1 up-regulated 1
+64763	ZNF574	zinc finger protein 574
+64764	CREB3L2	cAMP responsive element binding protein 3-like 2
+64843	ISL2	ISL LIM homeobox 2
+64864	RFX7	regulatory factor X, 7
+64919	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)
+65056	GPBP1	GC-rich promoter binding protein 1
+65243	ZNF643	zinc finger protein 643
+65249	ZSWIM4	zinc finger, SWIM-type containing 4
+65251	ZNF649	zinc finger protein 649
+65982	ZSCAN18	zinc finger and SCAN domain containing 18
+65986	ZBTB10	zinc finger and BTB domain containing 10
+65988	ZNF747	zinc finger protein 747
+79027	ZNF655	zinc finger protein 655
+79038	ZFYVE21	zinc finger, FYVE domain containing 21
+79088	ZNF426	zinc finger protein 426
+79149	ZSCAN5A	zinc finger and SCAN domain containing 5A
+79175	ZNF343	zinc finger protein 343
+79177	ZNF576	zinc finger protein 576
+79190	IRX6	iroquois homeobox 6
+79191	IRX3	iroquois homeobox 3
+79192	IRX1	iroquois homeobox 1
+79230	ZNF557	zinc finger protein 557
+79364	ZXDC	ZXD family zinc finger C
+79365	BHLHB3	basic helix-loop-helix domain containing, class B, 3
+79366	NSBP1	nucleosomal binding protein 1
+79413	ZBED2	zinc finger, BED-type containing 2
+79603	LASS4	LAG1 homolog, ceramide synthase 4
+79618	HMBOX1	homeobox containing 1
+79670	ZCCHC6	zinc finger, CCHC domain containing 6
+79673	ZNF329	zinc finger protein 329
+79683	ZDHHC14	zinc finger, DHHC-type containing 14
+79692	ZNF322A	zinc finger protein 322A
+79698	ZMAT4	zinc finger, matrin type 4
+79710	MORC4	MORC family CW-type zinc finger 4
+79724	ZNF768	zinc finger protein 768
+79733	E2F8	E2F transcription factor 8
+79740	ZBBX	zinc finger, B-box domain containing
+79744	ZNF419	zinc finger protein 419
+79750	ZNF385D	zinc finger protein 385D
+79752	ZFAND1	zinc finger, AN1-type domain 1
+79755	ZNF750	zinc finger protein 750
+79759	ZNF668	zinc finger protein 668
+79776	ZFHX4	zinc finger homeobox 4
+79788	ZNF665	zinc finger protein 665
+79797	ZNF408	zinc finger protein 408
+79800	ALS2CR8	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 8
+79818	ZNF552	zinc finger protein 552
+79830	ZMYM1	zinc finger, MYM-type 1
+79842	ZBTB3	zinc finger and BTB domain containing 3
+79844	ZDHHC11	zinc finger, DHHC-type containing 11
+79862	ZNF669	zinc finger protein 669
+79882	ZC3H14	zinc finger CCCH-type containing 14
+79891	ZNF671	zinc finger protein 671
+79894	ZNF672	zinc finger protein 672
+79898	ZNF613	zinc finger protein 613
+79923	NANOG	Nanog homeobox
+79943	ZNF696	zinc finger protein 696
+79970	ZNF767	zinc finger family member 767
+79973	ZNF442	zinc finger protein 442
+79977	GRHL2	grainyhead-like 2 (Drosophila)
+80032	ZNF556	zinc finger protein 556
+80034	FAM130A2	family with sequence similarity 130, member A2
+80095	ZNF606	zinc finger protein 606
+80108	ZFP2	zinc finger protein 2 homolog (mouse)
+80110	ZNF614	zinc finger protein 614
+80139	ZNF703	zinc finger protein 703
+80149	ZC3H12A	zinc finger CCCH-type containing 12A
+80264	ZNF430	zinc finger protein 430
+80317	ZKSCAN3	zinc finger with KRAB and SCAN domains 3
+80320	SP6	Sp6 transcription factor
+80345	ZSCAN16	zinc finger and SCAN domain containing 16
+80709	AKNA	AT-hook transcription factor
+80712	ESX1	ESX homeobox 1
+80714	PBX4	pre-B-cell leukemia homeobox 4
+80764	THAP7	THAP domain containing 7
+80778	ZNF34	zinc finger protein 34
+80818	ZNF436	zinc finger protein 436
+80829	ZFP91	zinc finger protein 91 homolog (mouse)
+81566	FAM130A1	family with sequence similarity 130, member A1
+81628	TSC22D4	TSC22 domain family, member 4
+81856	ZNF611	zinc finger protein 611
+81931	ZNF93	zinc finger protein 93
+83439	TCF7L1	transcription factor 7-like 1 (T-cell specific, HMG-box)
+83463	MXD3	MAX dimerization protein 3
+83482	SCRT1	scratch homolog 1, zinc finger protein (Drosophila)
+83595	SOX7	SRY (sex determining region Y)-box 7
+83637	ZMIZ2	zinc finger, MIZ-type containing 2
+83741	TFAP2D	transcription factor AP-2 delta (activating enhancer binding protein 2 delta)
+83744	ZNF484	zinc finger protein 484
+83855	KLF16	Kruppel-like factor 16
+83881	MIXL1	Mix1 homeobox-like 1 (Xenopus laevis)
+84083	ZRANB3	zinc finger, RAN-binding domain containing 3
+84108	PCGF6	polycomb group ring finger 6
+84124	ZNF394	zinc finger protein 394
+84146	ZNF644	zinc finger protein 644
+84163	GTF2IRD2	GTF2I repeat domain containing 2
+84186	ZCCHC7	zinc finger, CCHC domain containing 7
+84215	ZNF541	zinc finger protein 541
+84217	ZMYND12	zinc finger, MYND-type containing 12
+84225	ZMYND15	zinc finger, MYND-type containing 15
+84240	ZCCHC9	zinc finger, CCHC domain containing 9
+84243	ZDHHC18	zinc finger, DHHC-type containing 18
+84256	FLYWCH1	FLYWCH-type zinc finger 1
+84287	ZDHHC16	zinc finger, DHHC-type containing 16
+84307	ZNF397	zinc finger protein 397
+84324	CIP29	cytokine induced protein 29 kDa
+84327	ZBED3	zinc finger, BED-type containing 3
+84330	ZNF414	zinc finger protein 414
+84436	ZNF528	zinc finger protein 528
+84449	ZNF333	zinc finger protein 333
+84450	ZNF512	zinc finger protein 512
+84458	LCOR	ligand dependent nuclear receptor corepressor
+84460	ZMAT1	zinc finger, matrin type 1
+84503	ZNF527	zinc finger protein 527
+84504	NKX6-2	NK6 homeobox 2
+84524	ZC3H8	zinc finger CCCH-type containing 8
+84525	HOPX	HOP homeobox
+84527	ZNF559	zinc finger protein 559
+84528	RHOXF2	Rhox homeobox family, member 2
+84547	PGBD1	piggyBac transposable element derived 1
+84614	ZBTB37	zinc finger and BTB domain containing 37
+84619	ZGPAT	zinc finger, CCCH-type with G patch domain
+84622	ZNF594	zinc finger protein 594
+84627	ZNF469	zinc finger protein 469
+84654	SPZ1	spermatogenic leucine zipper 1
+84662	GLIS2	GLIS family zinc finger 2
+84667	HES7	hairy and enhancer of split 7 (Drosophila)
+84671	ZNF347	zinc finger protein 347
+84684	INSM2	insulinoma-associated 2
+84699	CREB3L3	cAMP responsive element binding protein 3-like 3
+84733	CBX2	chromobox homolog 2 (Pc class homolog, Drosophila)
+84765	ZNF577	zinc finger protein 577
+84775	ZNF607	zinc finger protein 607
+84838	ZNF496	zinc finger protein 496
+84839	RAX2	retina and anterior neural fold homeobox 2
+84844	PHF5A	PHD finger protein 5A
+84858	ZNF503	zinc finger protein 503
+84872	ZC3H10	zinc finger CCCH-type containing 10
+84874	ZNF514	zinc finger protein 514
+84878	ZBTB45	zinc finger and BTB domain containing 45
+84885	ZDHHC12	zinc finger, DHHC-type containing 12
+84891	ZSCAN10	zinc finger and SCAN domain containing 10
+84905	ZNF341	zinc finger protein 341
+84911	ZNF382	zinc finger protein 382
+84913	ATOH8	atonal homolog 8 (Drosophila)
+84914	ZNF587	zinc finger protein 587
+84922	FIZ1	FLT3-interacting zinc finger 1
+84924	ZNF566	zinc finger protein 566
+84936	ZFYVE19	zinc finger, FYVE domain containing 19
+84969	TOX2	TOX high mobility group box family member 2
+85364	ZCCHC3	zinc finger, CCHC domain containing 3
+85437	ZCRB1	zinc finger CCHC-type and RNA binding motif 1
+85446	ZFHX2	zinc finger homeobox 2
+85460	ZNF518B	zinc finger protein 518B
+85463	ZC3H12C	zinc finger CCCH-type containing 12C
+85474	LBX2	ladybird homeobox 2
+85508	SCRT2	scratch homolog 2, zinc finger protein (Drosophila)
+86614	HSFY1	heat shock transcription factor, Y-linked 1
+89767	ZNF299	zinc finger protein 299
+89884	LHX4	LIM homeobox 4
+89887	ZNF628	zinc finger protein 628
+90075	ZNF30	zinc finger protein 30
+90204	ZSWIM1	zinc finger, SWIM-type containing 1
+90233	ZNF551	zinc finger protein 551
+90316	TGIF2LX	TGFB-induced factor homeobox 2-like, X-linked
+90317	ZNF616	zinc finger protein 616
+90321	ZNF766	zinc finger protein 766
+90333	ZNF468	zinc finger protein 468
+90338	ZNF160	zinc finger protein 160
+90441	ZNF622	zinc finger protein 622
+90462	ZNF605	zinc finger protein 605
+90485	ZNF835	zinc finger protein 835
+90576	ZNF799	zinc finger protein 799
+90589	ZNF625	zinc finger protein 625
+90592	ZNF700	zinc finger protein 700
+90594	ZNF439	zinc finger protein 439
+90637	ZFAND2A	zinc finger, AN1-type domain 2A
+90649	ZNF486	zinc finger protein 486
+90655	TGIF2LY	TGFB-induced factor homeobox 2-like, Y-linked
+90827	ZNF479	zinc finger protein 479
+90850	ZNF598	zinc finger protein 598
+90874	ZNF697	zinc finger protein 697
+90987	ZNF251	zinc finger protein 251
+90993	CREB3L1	cAMP responsive element binding protein 3-like 1
+91012	LASS5	LAG1 homolog, ceramide synthase 5
+91074	ANKRD30A	ankyrin repeat domain 30A
+91120	ZNF682	zinc finger protein 682
+91133	L3MBTL4	l(3)mbt-like 4 (Drosophila)
+91392	ZNF502	zinc finger protein 502
+91464	ISX	intestine-specific homeobox
+91603	ZNF830	zinc finger protein 830
+91661	ZNF765	zinc finger protein 765
+91664	ZNF845	zinc finger protein 845
+91748	C14orf43	chromosome 14 open reading frame 43
+91752	ZNF804A	zinc finger protein 804A
+91975	ZNF300	zinc finger protein 300
+92092	ZC3HAV1L	zinc finger CCCH-type, antiviral 1-like
+92283	ZNF461	zinc finger protein 461
+92285	ZNF585B	zinc finger protein 585B
+92379	ZFP62	zinc finger protein 62 homolog (mouse)
+92595	ZNF764	zinc finger protein 764
+92822	ZNF276	zinc finger protein 276
+92999	ZBTB47	zinc finger and BTB domain containing 47
+93134	ZNF561	zinc finger protein 561
+93166	PRDM6	PR domain containing 6
+93474	ZNF670	zinc finger protein 670
+93986	FOXP2	forkhead box P2
+94039	ZNF101	zinc finger protein 101
+94104	C21orf66	chromosome 21 open reading frame 66
+94234	FOXQ1	forkhead box Q1
+113835	ZNF257	zinc finger protein 257
+114026	ZIM3	zinc finger, imprinted 3
+114793	FMNL2	formin-like 2
+114821	SCAND3	SCAN domain containing 3
+114991	ZNF618	zinc finger protein 618
+115196	ZNF554	zinc finger protein 554
+115509	ZNF689	zinc finger protein 689
+115560	ZNF501	zinc finger protein 501
+115950	ZNF653	zinc finger protein 653
+116071	BATF2	basic leucine zipper transcription factor, ATF-like 2
+116113	FOXP4	forkhead box P4
+116115	ZNF526	zinc finger protein 526
+116225	ZMYND19	zinc finger, MYND-type containing 19
+116412	ZNF837	zinc finger protein 837
+116448	OLIG1	oligodendrocyte transcription factor 1
+117581	TWIST2	twist homolog 2 (Drosophila)
+117608	ZNF354B	zinc finger protein 354B
+118472	ZNF511	zinc finger protein 511
+118490	ZMYND17	zinc finger, MYND-type containing 17
+118738	ZNF488	zinc finger protein 488
+118813	ZFYVE27	zinc finger, FYVE domain containing 27
+120126	LOC120126	hypothetical protein
+120237	DBX1	developing brain homeobox 1
+121274	ZNF641	zinc finger protein 641
+121340	SP7	Sp7 transcription factor
+121536	AEBP2	AE binding protein 2
+121549	ASCL4	achaete-scute complex homolog 4 (Drosophila)
+121599	SPIC	Spi-C transcription factor (Spi-1/PU.1 related)
+121643	FOXN4	forkhead box N4
+122953	JDP2	Jun dimerization protein 2
+124245	ZC3H18	zinc finger CCCH-type containing 18
+124411	ZNF720	zinc finger protein 720
+124535	HSF5	heat shock transcription factor family member 5
+124961	ZFP3	zinc finger protein 3 homolog (mouse)
+125150	ZSWIM7	zinc finger, SWIM-type containing 7
+125893	ZNF816A	zinc finger protein 816A
+125919	ZNF543	zinc finger protein 543
+126017	ZNF813	zinc finger protein 813
+126068	ZNF441	zinc finger protein 441
+126069	ZNF491	zinc finger protein 491
+126070	ZNF440	zinc finger protein 440
+126208	ZNF787	zinc finger protein 787
+126231	ZNF573	zinc finger protein 573
+126295	ZNF57	zinc finger protein 57
+126299	ZNF428	zinc finger protein 428
+126375	ZNF792	zinc finger protein 792
+126626	GABPB2	GA binding protein transcription factor, beta subunit 2
+127343	DMBX1	diencephalon/mesencephalon homeobox 1
+127396	ZNF684	zinc finger protein 684
+127428	C1orf83	chromosome 1 open reading frame 83
+127540	HMGB4	high-mobility group box 4
+127665	ZNF648	zinc finger protein 648
+128209	KLF17	Kruppel-like factor 17
+128408	BHLHB4	basic helix-loop-helix domain containing, class B, 4
+128553	TSHZ2	teashirt zinc finger homeobox 2
+128611	ZNF831	zinc finger protein 831
+129025	ZNF280A	zinc finger protein 280A
+129870	LOC129870	HMG box-containing protein LOC129870
+130557	ZNF513	zinc finger protein 513
+130617	ZFAND2B	zinc finger, AN1-type domain 2B
+131540	ZDHHC19	zinc finger, DHHC-type containing 19
+132625	ZFP42	zinc finger protein 42 homolog (mouse)
+133923	ZNF474	zinc finger protein 474
+134187	POU5F2	POU domain class 5, transcription factor 2
+135935	NOBOX	NOBOX oogenesis homeobox
+136051	ZNF786	zinc finger protein 786
+136259	KLF14	Kruppel-like factor 14
+137209	ZNF572	zinc finger protein 572
+137814	NKX2-6	NK2 transcription factor related, locus 6 (Drosophila)
+139324	HDX	highly divergent homeobox
+139628	FOXR2	forkhead box R2
+139735	ZFP92	zinc finger protein 92 homolog (mouse)
+140467	ZNF358	zinc finger protein 358
+140612	ZFP28	zinc finger protein 28 homolog (mouse)
+140628	GATA5	GATA binding protein 5
+140685	ZBTB46	zinc finger and BTB domain containing 46
+140690	CTCFL	CCCTC-binding factor (zinc finger protein)-like
+140831	ZSWIM3	zinc finger, SWIM-type containing 3
+140883	ZNF280B	zinc finger protein 280B
+144348	ZNF664	zinc finger protein 664
+144455	E2F7	E2F transcription factor 7
+145258	GSC	goosecoid homeobox
+145873	MESP2	mesoderm posterior 2 homolog (mouse)
+146050	ZSCAN29	zinc finger and SCAN domain containing 29
+146198	ZFP90	zinc finger protein 90 homolog (mouse)
+146434	ZNF597	zinc finger protein 597
+146540	ZNF785	zinc finger protein 785
+146542	ZNF688	zinc finger protein 688
+147657	ZNF480	zinc finger protein 480
+147658	ZNF534	zinc finger protein 534
+147660	ZNF578	zinc finger protein 578
+147686	ZNF418	zinc finger protein 418
+147687	ZNF417	zinc finger protein 417
+147694	ZNF548	zinc finger protein 548
+147741	ZNF560	zinc finger protein 560
+147807	ZNF524	zinc finger protein 524
+147808	ZNF784	zinc finger protein 784
+147837	ZNF563	zinc finger protein 563
+147912	SIX5	SIX homeobox 5
+147923	ZNF420	zinc finger protein 420
+147929	ZNF565	zinc finger protein 565
+147948	ZNF582	zinc finger protein 582
+147949	ZNF583	zinc finger protein 583
+148103	ZNF599	zinc finger protein 599
+148156	ZNF558	zinc finger protein 558
+148198	ZNF98	zinc finger protein 98 (F7175)
+148206	ZNF714	zinc finger protein 714
+148213	ZNF681	zinc finger protein 681
+148254	ZNF555	zinc finger protein 555
+148266	ZNF569	zinc finger protein 569
+148268	ZNF570	zinc finger protein 570
+148327	CREB3L4	cAMP responsive element binding protein 3-like 4
+148979	GLIS1	GLIS family zinc finger 1
+149041	RC3H1	ring finger and CCCH-type zinc finger domains 1
+149076	ZNF362	zinc finger protein 362
+150921	TCF23	transcription factor 23
+151112	ZSWIM2	zinc finger, SWIM-type containing 2
+151126	ZNF385B	zinc finger protein 385B
+152098	ZCWPW2	zinc finger, CW type with PWWP domain 2
+152485	ZNF827	zinc finger protein 827
+152518	NFXL1	nuclear transcription factor, X-box binding-like 1
+152687	ZNF595	zinc finger protein 595
+153222	C5orf41	chromosome 5 open reading frame 41
+153527	ZMAT2	zinc finger, matrin type 2
+153572	IRX2	iroquois homeobox 2
+155054	ZNF425	zinc finger protein 425
+155060	ZNF783	zinc finger family member 783
+155061	ZNF746	zinc finger protein 746
+157848	NKX6-3	NK6 homeobox 3
+158399	ZNF483	zinc finger protein 483
+158431	ZNF782	zinc finger protein 782
+158506	ZNF645	zinc finger protein 645
+158586	ZXDB	zinc finger, X-linked, duplicated B
+158800	RHOXF1	Rhox homeobox family, member 1
+158866	ZDHHC15	zinc finger, DHHC-type containing 15
+159119	HSFY2	heat shock transcription factor, Y linked 2
+159296	NKX2-3	NK2 transcription factor related, locus 3 (Drosophila)
+161882	ZFPM1	zinc finger protein, multitype 1
+162239	ZFP1	zinc finger protein 1 homolog (mouse)
+162655	ZNF519	zinc finger protein 519
+162962	ZNF836	zinc finger protein 836
+162963	ZNF610	zinc finger protein 610
+162966	ZNF600	zinc finger protein 600
+162967	ZNF320	zinc finger protein 320
+162968	ZNF497	zinc finger protein 497
+162972	ZNF550	zinc finger protein 550
+162979	ZNF296	zinc finger protein 296
+162993	ZNF846	zinc finger protein 846
+163033	ZNF579	zinc finger protein 579
+163049	ZNF791	zinc finger protein 791
+163050	ZNF564	zinc finger protein 564
+163051	ZNF709	zinc finger protein 709
+163059	ZNF433	zinc finger protein 433
+163071	ZNF114	zinc finger protein 114
+163081	ZNF567	zinc finger protein 567
+163087	ZNF383	zinc finger protein 383
+163115	ZNF781	zinc finger protein 781
+163131	ZNF780B	zinc finger protein 780B
+163223	ZNF676	zinc finger protein 676
+163227	ZNF100	zinc finger protein 100
+163255	ZNF540	zinc finger protein 540
+166793	ZNF509	zinc finger protein 509
+166968	MIER3	mesoderm induction early response 1, family member 3
+167465	ZNF366	zinc finger protein 366
+167826	OLIG3	oligodendrocyte transcription factor 3
+168374	ZNF92	zinc finger protein 92
+168544	ZNF467	zinc finger protein 467
+168620	BHLHB8	basic helix-loop-helix domain containing, class B, 8
+168850	ZNF800	zinc finger protein 800
+169270	ZNF596	zinc finger protein 596
+169792	GLIS3	GLIS family zinc finger 3
+169841	ZNF169	zinc finger protein 169
+170082	LOC170082	TFIIS central domain-containing protein 1
+170261	ZCCHC12	zinc finger, CCHC domain containing 12
+170302	ARX	aristaless related homeobox
+170825	GSX2	GS homeobox 2
+170959	ZNF431	zinc finger protein 431
+170960	ZNF721	zinc finger protein 721
+171017	ZNF384	zinc finger protein 384
+171392	ZNF675	zinc finger protein 675
+195828	ZNF367	zinc finger protein 367
+196441	ZFC3H1	zinc finger, C3H1-type containing
+196446	C12orf28	chromosome 12 open reading frame 28
+197320	ZNF778	zinc finger protein 778
+197407	ZNF553	zinc finger protein 553
+199692	ZNF627	zinc finger protein 627
+199704	ZNF585A	zinc finger protein 585A
+199777	ZNF626	zinc finger protein 626
+200186	CRTC2	CREB regulated transcription coactivator 2
+200350	FOXD4L1	forkhead box D4-like 1
+201181	ZNF385C	zinc finger protein 385C
+201501	ZBTB7C	zinc finger and BTB domain containing 7C
+201514	ZNF584	zinc finger protein 584
+201516	ZSCAN4	zinc finger and SCAN domain containing 4
+203430	ZCCHC5	zinc finger, CCHC domain containing 5
+203447	NRK	Nik related kinase
+203510	LOC203510	similar to hCG1644442
+203523	ZNF449	zinc finger protein 449
+204219	LASS3	LAG1 homolog, ceramide synthase 3
+219409	GSX1	GS homeobox 1
+219578	ZNF804B	zinc finger protein 804B
+219654	ZCCHC24	zinc finger, CCHC domain containing 24
+219749	ZNF25	zinc finger protein 25
+220202	ATOH7	atonal homolog 7 (Drosophila)
+220929	ZNF438	zinc finger protein 438
+220992	ZNF485	zinc finger protein 485
+221302	ZUFSP	zinc finger with UFM1-specific peptidase domain
+221504	ZBTB9	zinc finger and BTB domain containing 9
+221527	ZBTB12	zinc finger and BTB domain containing 12
+221710	LOC221710	hypothetical protein LOC221710
+221785	ZNF498	zinc finger protein 498
+221833	SP8	Sp8 transcription factor
+221895	JAZF1	JAZF zinc finger 1
+221937	FOXK1	forkhead box K1
+222546	RFX6	regulatory factor X, 6
+222696	ZSCAN23	zinc finger and SCAN domain containing 23
+222894	FERD3L	Fer3-like (Drosophila)
+252884	ZNF396	zinc finger protein 396
+253342	ZNF725	zinc finger protein 725
+253461	ZBTB38	zinc finger and BTB domain containing 38
+253639	ZNF620	zinc finger protein 620
+253738	EBF3	early B-cell factor 3
+253782	LASS6	LAG1 homolog, ceramide synthase 6
+253832	ZDHHC20	zinc finger, DHHC-type containing 20
+254359	ZDHHC24	zinc finger, DHHC-type containing 24
+254887	ZDHHC23	zinc finger, DHHC-type containing 23
+255403	ZNF718	zinc finger protein 718
+255877	BCL6B	B-cell CLL/lymphoma 6, member B (zinc finger protein)
+256051	ZNF549	zinc finger protein 549
+256297	PTF1A	pancreas specific transcription factor, 1a
+257101	ZNF683	zinc finger protein 683
+266743	NPAS4	neuronal PAS domain protein 4
+282890	ZNF311	zinc finger protein 311
+283078	MKX	mohawk homeobox
+283150	FOXR1	forkhead box R1
+283248	RCOR2	REST corepressor 2
+283337	ZNF740	zinc finger protein 740
+283489	ZNF828	zinc finger protein 828
+283523	LOC283523	similar to telomeric repeat binding factor (NIMA-interacting) 1
+283571	PROX2	prospero homeobox 2
+283576	ZDHHC22	zinc finger, DHHC-type containing 22
+283847	CCDC79	coiled-coil domain containing 79
+283933	ZNF843	zinc finger protein 843
+284306	ZNF547	zinc finger protein 547
+284307	ZIK1	zinc finger protein interacting with K protein 1 homolog (mouse)
+284309	ZNF776	zinc finger protein 776
+284312	ZSCAN1	zinc finger and SCAN domain containing 1
+284323	ZNF780A	zinc finger protein 780A
+284346	ZNF575	zinc finger protein 575
+284349	ZNF283	zinc finger protein 283
+284355	TPRX1	tetra-peptide repeat homeobox 1
+284370	ZNF615	zinc finger protein 615
+284371	ZNF841	zinc finger protein 841
+284390	ZNF763	zinc finger protein 763
+284391	ZNF844	zinc finger protein 844
+284406	ZFP82	zinc finger protein 82 homolog (mouse)
+284443	ZNF493	zinc finger protein 493
+284459	HKR1	GLI-Kruppel family member HKR1
+284695	ZNF326	zinc finger protein 326
+285267	ZNF619	zinc finger protein 619
+285268	ZNF621	zinc finger protein 621
+285346	ZNF852	zinc finger protein 852
+285349	ZNF660	zinc finger protein 660
+285484	LOC285484	hypothetical protein LOC285484
+285676	ZNF454	zinc finger protein 454
+285697	LOC285697	similar to hCG1807616
+285971	ZNF775	zinc finger protein 775
+285989	ZNF789	zinc finger protein 789
+286075	ZNF707	zinc finger protein 707
+286128	ZFP41	zinc finger protein 41 homolog (mouse)
+333929	SNAI3	snail homolog 3 (Drosophila)
+338917	VSX2	visual system homeobox 2
+339318	ZNF181	zinc finger protein 181
+339324	ZNF260	zinc finger protein 260
+339327	ZNF546	zinc finger protein 546
+339344	LOC339344	hypothetical protein LOC339344
+339487	ZBTB8OS	zinc finger and BTB domain containing 8 opposite strand
+339488	TFAP2E	transcription factor AP-2 epsilon (activating enhancer binding protein 2 epsilon)
+339500	ZNF678	zinc finger protein 678
+339559	ZNF642	zinc finger protein 642
+340152	ZC3H12D	zinc finger CCCH-type containing 12D
+340252	ZNF680	zinc finger protein 680
+340260	UNCX	UNC homeobox
+340385	ZNF517	zinc finger protein 517
+340481	ZDHHC21	zinc finger, DHHC-type containing 21
+340554	ZC3H12B	zinc finger CCCH-type containing 12B
+340595	ZCCHC16	zinc finger, CCHC domain containing 16
+340784	HMX3	H6 family homeobox 3
+342132	ZNF774	zinc finger protein 774
+342357	ZKSCAN2	zinc finger with KRAB and SCAN domains 2
+342900	LEUTX	leucine twenty homeobox
+342908	ZNF404	zinc finger protein 404
+342909	ZNF284	zinc finger protein 284
+342926	ZNF677	zinc finger protein 677
+342933	ZSCAN5B	zinc finger and SCAN domain containing 5B
+342945	ZSCAN22	zinc finger and SCAN domain containing 22
+343472	BARHL2	BarH-like homeobox 2
+343930	MSGN1	mesogenin 1
+344018	FIGLA	folliculogenesis specific basic helix-loop-helix
+344022	NOTO	notochord homeobox
+344167	FOXI3	forkhead box I3
+344191	EVX2	even-skipped homeobox 2
+344787	Zinc	Zinc finger protein 860
+346157	ZNF391	zinc finger protein 391
+346171	ZFP57	zinc finger protein 57 homolog (mouse)
+347344	ZNF81	zinc finger protein 81
+347853	TBX10	T-box 10
+348327	ZNF530	zinc finger protein 530
+349075	ZNF713	zinc finger protein 713
+353088	ZNF429	zinc finger protein 429
+353274	ZNF445	zinc finger protein 445
+353355	ZNF233	zinc finger protein 233
+360023	ZBTB41	zinc finger and BTB domain containing 41
+374655	ZNF710	zinc finger protein 710
+374879	ZNF699	zinc finger protein 699
+374899	ZNF829	zinc finger protein 829
+374900	ZNF568	zinc finger protein 568
+374928	ZNF773	zinc finger protein 773
+376940	ZC3H6	zinc finger CCCH-type containing 6
+387032	ZKSCAN4	zinc finger with KRAB and SCAN domains 4
+387264	KRTAP5-1	keratin associated protein 5-1
+387328	ZNF322B	zinc finger protein 322B
+387332	TBPL2	TATA box binding protein like 2
+388523	ZNF728	zinc finger protein 728
+388536	ZNF790	zinc finger protein 790
+388553	LOC388553	similar to hCG1645909
+388558	ZNF808	zinc finger protein 808
+388561	ZNF761	zinc finger protein 761
+388566	ZNF470	zinc finger protein 470
+388567	ZNF749	zinc finger protein 749
+388569	ZNF324B	zinc finger protein 324B
+388585	HES5	hairy and enhancer of split 5 (Drosophila)
+388677	NOTCH2NL	Notch homolog 2 (Drosophila) N-terminal like
+389058	SP5	Sp5 transcription factor
+389114	ZNF662	zinc finger protein 662
+389461	ZNF316	zinc finger protein 316
+389524	GTF2IRD2B	GTF2I repeat domain containing 2B
+389549	FEZF1	FEZ family zinc finger 1
+389692	MAFA	v-maf musculoaponeurotic fibrosarcoma oncogene homolog A (avian)
+389874	ZCCHC13	zinc finger, CCHC domain containing 13
+390010	NKX1-2	NK1 homeobox 2
+390259	BSX	brain-specific homeobox
+390874	ONECUT3	one cut homeobox 3
+390927	ZNF793	zinc finger protein 793
+390937	LOC390937	similar to hCG2040171
+390980	ZNF805	zinc finger protein 805
+390992	HES3	hairy and enhancer of split 3 (Drosophila)
+391594	FLYWCH1L	FLYWCH-type zinc finger 1-like
+391723	HELT	HES/HEY-like transcription factor
+391746	LOC391746	similar to hCG1809904
+391749	LOC391749	similar to hCG1809904
+391763	LOC391763	similar to hCG1809904
+391764	LOC391764	similar to hCG1989915
+391766	LOC391766	similar to hCG1809904
+391767	LOC391767	similar to hCG1989915
+399669	ZNF321	zinc finger protein 321
+399823	FOXI2	forkhead box I2
+400720	ZNF772	zinc finger protein 772
+401509	ZNF658B	zinc finger protein 658B
+401898	ZNF833	zinc finger protein 833
+402199	LOC402199	similar to hCG1809904
+402381	SOHLH1	spermatogenesis and oogenesis specific basic helix-loop-helix 1
+403341	ZBTB34	zinc finger and BTB domain containing 34
+404281	YY2	YY2 transcription factor
+414197	ZNF32OS1	zinc finger protein 32 opposite strand 1
+414208	ZNF32OS2	zinc finger protein 32 opposite strand 2
+431707	LHX8	LIM homeobox 8
+440013	LOC440013	similar to double homeobox, 4
+440014	LOC440014	similar to Double homeobox protein 4 (Double homeobox protein 10) (Double homeobox protein 4/10)
+440077	ZNF705A	zinc finger protein 705A
+440097	DBX2	developing brain homeobox 2
+440515	ZNF506	zinc finger protein 506
+440517	ZNF729	zinc finger protein 729
+440695	ETV3L	ets variant 3-like
+441056	LOC441056	double homeobox, 4-like
+441234	ZNF716	zinc finger protein 716
+441330	ZNF705B	zinc finger protein 705B
+441383	LOC441383	hypothetical gene supported by AF086559; BC065734
+441795	LOC441795	Putative high mobility group protein B3-like protein
+441955	ZNF834	zinc finger protein 834
+442319	LOC442319	similar to hCG32758
+442425	FOXB2	forkhead box B2
+442695	ZNF722	zinc finger protein 722
+503582	ARGFX	arginine-fifty homeobox
+503834	DPRX	divergent-paired related homeobox
+503835	DUXA	double homeobox A
+619279	ZNF704	zinc finger protein 704
+641339	ZNF674	zinc finger family member 674
+641383	TCF24	transcription factor 24
+642255	LOC642255	similar to Diacylglycerol O-acyltransferase 1 (Diglyceride acyltransferase) (ACAT-related gene product 1)
+642658	SCXB	scleraxis homolog B (mouse)
+642819	ZNF487	zinc finger protein 487
+643159	LOC643159	similar to activating transcription factor 4
+643641	ZNF862	zinc finger protein 862
+643719	ZNF807	zinc finger protein 807
+643894	LOC643894	similar to hCG1744064
+644168	DRGX	dorsal root ganglia homeobox
+644524	NKX2-4	NK2 homeobox 4
+645490	LOC645490	similar to high mobility group 1 protein
+645832	SEBOX	SEBOX homeobox
+646103	LOC646103	similar to hCG1809904
+646698	LOC646698	similar to hCG92381
+646915	ZNF806	zinc finger protein 806
+646993	LOC646993	similar to high-mobility group box 3
+647219	ASCL5	achaete-scute complex homolog 5 (Drosophila)
+649137	ZSCAN5C	zinc finger and SCAN domain containing 5C
+649563	ZNF705G	Putative zinc finger protein 705G
+652119	LOC652119	similar to double homeobox 4c
+652586	LOC652586	similar to double homeobox 4c
+652764	HPX-2	similar to double homeobox, 4
+653082	ZDHHC11B	zinc finger, DHHC-type containing 11B
+653121	ZBTB8	zinc finger and BTB domain containing 8
+653284	LOC653284	zinc finger protein LOC653284
+653404	FOXD4L6	forkhead box D4-like 6
+653427	FOXD4L5	forkhead box D4-like 5
+653541	LOC653541	double homeobox, 4-like
+653543	LOC653543	double homeobox, 4-like
+654254	hCG_1771830	zinc finger protein LOC654254
+664701	ZNF826	zinc finger protein 826
+664720	ZBTB42	zinc finger and BTB domain containing 42
+724097	ZNF723	zinc finger protein 723
+724099	ZNF726	zinc finger protein 726
+727857	LOC727857	class II basic helix-loop-helix protein
+727940	RHOXF2B	Rhox homeobox family, member 2B
+728302	HSFX2	heat shock transcription factor family, X linked 2
+728489	DNLZ	DNL-type zinc finger
+728665	ZNF860	zinc finger protein 860
+728898	ZNF735	zinc finger protein 735
+728957	ZNF705D	zinc finger protein 705D
+729501	LOC729501	Putative zinc finger protein ENSP00000344568
+729595	LOC729595	similar to high-mobility group box 3
+729648	ZNF812	zinc finger protein 812
+730087	LOC730087	similar to zinc finger protein 91
+730110	LOC730110	Zinc finger protein ENSP00000351689
+730291	LOC730291	Putative zinc finger protein ENSP00000381716
+790968	ZNF705E	zinc finger protein 705E
+790969	ZNF705F	zinc finger protein 705F
+791117	ZNF286B	zinc finger protein 286B
+100036519	FOXD4L2	forkhead box D4-like 2
+100101467	ZNF397OS	zinc finger protein 397 opposite strand
+100125288	GLP-1	GATA like protein-1
+100129543	ZNF730	zinc finger protein 730
+100129692	LOC100129692	similar to hCG1793972
+100129842	ZNF737	zinc finger protein 737
+100130009	LOC100130009	similar to high mobility group protein
+100130086	LOC100130086	hypothetical protein LOC100130086
+100130108	ZNF849P	zinc finger protein 849 pseudogene
+100130518	LOC100130518	similar to hCG1773661
+100130561	LOC100130561	similar to high-mobility group (nonhistone chromosomal) protein 1-like 10
+100130809	LOC100130809	hypothetical protein LOC100130809
+100130863	ZNF840	zinc finger protein 840
+100131539	LOC100131539	similar to zinc finger protein 705A
+100131827	ZNF717	zinc finger protein 717
+100131875	LOC100131875	similar to POU domain, class 4, transcription factor 1
+100132074	FOXO6	forkhead box protein O6
+100132460	LOC100132460	similar to LOC100126053 protein
+100134166	LOC100134166	similar to putative DUX4 protein
+100134236	LOC100134236	similar to Nuclear factor, interleukin 3 regulated
+100134260	LOC100134260	similar to double homeobox, 4
+100134409	LOC100134409	similar to putative DUX4 protein
+100134410	LOC100134410	similar to POU domain, class 6, transcription factor 2 (Retina-derived POU domain factor 1) (RPF-1)
+100170646	ZNF733	zinc finger protein 733
+100187701	ZNF734	zinc finger protein 734
+100187702	ZNF732	zinc finger protein 732

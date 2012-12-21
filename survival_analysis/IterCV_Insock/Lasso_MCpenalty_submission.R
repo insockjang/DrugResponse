@@ -1,0 +1,80 @@
+### Lasso Molecular Feature only 
+
+###################################################
+### step 1: loadLibraries
+###################################################
+library(predictiveModeling)
+library(BCC)
+library(survival)
+library(survcomp)
+library(MASS)
+library(rms)
+synapseLogin("in.sock.jang@sagebase.org","tjsDUD@")
+
+
+###################################################ac
+### step 2: loadData
+###################################################
+# synapseLogin() ### not required if configured for automatic login
+trainingData <- loadMetabricTrainingData()
+
+
+###################################################
+### step 3: call predefined Models' classFile
+###################################################
+
+modelClassFile1 = ("~/COMPBIO/trunk/users/jang/survival_analysis/IterCV_Insock/MC_penalty/MC_penalty_Exp.R")
+modelClassFile2 = ("~/COMPBIO/trunk/users/jang/survival_analysis/IterCV_Insock/MC_penalty/MC_penalty_CNV.R")
+modelClassFile3 = ("~/COMPBIO/trunk/users/jang/survival_analysis/IterCV_Insock/MC_penalty/MC_penalty_ExpCNV.R")
+
+source(modelClassFile1)
+source(modelClassFile2)
+source(modelClassFile3)
+
+###################################################
+### step 4: trainModel
+###################################################
+# Lasso Grid Setting
+alphas = 1
+lambdas = createENetTuneGrid(alphas = 1)[,2]
+lambdas <- exp(seq(-5, 2, length = 50))
+
+myMC_penalty_Exp <- MC_penalty_Exp$new()
+myMC_penalty_Exp$customTrain(trainingData$exprData,trainingData$copyData,trainingData$clinicalFeaturesData,trainingData$clinicalSurvData, alpha = alphas,lambda = lambdas)
+trainPredictions1 <- myMC_penalty_Exp$customPredict(trainingData$exprData, trainingData$copyData, trainingData$clinicalFeaturesData)
+
+myMC_penalty_CNV <- MC_penalty_CNV$new()
+myMC_penalty_CNV$customTrain(trainingData$exprData,trainingData$copyData,trainingData$clinicalFeaturesData,trainingData$clinicalSurvData, alpha = alphas,lambda = lambdas)
+trainPredictions2 <- myMC_penalty_CNV$customPredict(trainingData$exprData, trainingData$copyData, trainingData$clinicalFeaturesData)
+
+myMC_penalty_ExpCNV <- MC_penalty_ExpCNV$new()
+myMC_penalty_ExpCNV$customTrain(trainingData$exprData,trainingData$copyData,trainingData$clinicalFeaturesData,trainingData$clinicalSurvData, alpha = alphas,lambda = lambdas)
+trainPredictions3 <- myMC_penalty_ExpCNV$customPredict(trainingData$exprData, trainingData$copyData, trainingData$clinicalFeaturesData)
+
+
+
+
+###################################################
+### step 5: computeTrainCIndex
+###################################################
+trainPerformance1 <- SurvivalModelPerformance$new(as.numeric(trainPredictions1), trainingData$clinicalSurvData)
+trainPerformance2 <- SurvivalModelPerformance$new(as.numeric(trainPredictions2), trainingData$clinicalSurvData)
+trainPerformance3 <- SurvivalModelPerformance$new(as.numeric(trainPredictions3), trainingData$clinicalSurvData)
+
+print(trainPerformance1$getExactConcordanceIndex())
+print(trainPerformance2$getExactConcordanceIndex())
+print(trainPerformance3$getExactConcordanceIndex())
+
+
+
+###################################################
+### step 6: submitModel
+###################################################
+myModelName1 = "InSock Lasso IterCV MC_penalty EXP" 
+myModelName2 = "InSock Lasso IterCV MC_penalty CNV" 
+myModelName3 = "InSock Lasso IterCV MC_penalty EXPCNV" 
+
+submitCompetitionModel(modelName = myModelName1, trainedModel=myMC_penalty_Exp,rFiles=list(modelClassFile1), parentDatasetId = "syn311276")
+submitCompetitionModel(modelName = myModelName2, trainedModel=myMC_penalty_CNV,rFiles=list(modelClassFile2), parentDatasetId = "syn311276")
+submitCompetitionModel(modelName = myModelName3, trainedModel=myMC_penalty_ExpCNV,rFiles=list(modelClassFile3), parentDatasetId = "syn311276")
+
