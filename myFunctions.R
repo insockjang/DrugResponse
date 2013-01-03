@@ -8,14 +8,13 @@ require(graphite)
 require(RCytoscape)
 require(Rgraphviz)
 
-synapseLogin(ID,PASSWD,mode = "hmac")
+source("~/DrugResponse/R5/myPathwayAnalysis.R")
 
-source("~/COMPBIO/trunk/users/jang/R5/myPathwayAnalysis.R")
 mSigDB_annotations <- loadEntity("syn105363")
 mSigDB_symbolID <- loadEntity("syn105350")
 DB<-mSigDB_symbolID$objects$MsigDB_symbolID  
 
-load("~/COMPBIO/trunk/users/jang/pathway_analysis/graphite_pathways.Rdata")
+load("~/DrugResponse/pathway_analysis/graphite_pathways.Rdata")
 
 output<-function(resultsScale){
   pred<-c()
@@ -28,10 +27,6 @@ output<-function(resultsScale){
     pred1<-c(pred1,resultsScale[[k]]$trainPredictions)
     obs1<-c(obs1,resultsScale[[k]]$trainObservations)
   }
-  #   par(mfrow = c(1,2))
-  #   plot(obs,pred)
-  #   plot(obs1,pred1)
-  #   print(c(cor(obs,pred),cor(obs1,pred1)))
   return(cor(obs,pred))
 }
 
