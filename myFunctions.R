@@ -8,7 +8,8 @@ require(graphite)
 require(RCytoscape)
 require(Rgraphviz)
 
-synapseLogin("in.sock.jang@sagebase.org","tjsDUD@",mode = "hmac")
+synapseLogin(ID,PASSWD,mode = "hmac")
+
 source("~/COMPBIO/trunk/users/jang/R5/myPathwayAnalysis.R")
 mSigDB_annotations <- loadEntity("syn105363")
 mSigDB_symbolID <- loadEntity("syn105350")
