@@ -1,4 +1,4 @@
-source("~/COMPBIO/trunk/users/jang/pathway_analysis/preRankedTest.R")
+source("~/DrugResponse/pathway_analysis/preRankedTest.R")
 require(ggplot2)
 myPathwayAnalysis1 <- setRefClass(Class = "myPathwayAnalysis1",                                 
                                  fields=c("gseaResult","fetResult"),
