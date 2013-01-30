@@ -79,7 +79,8 @@ pathwayPlot4<-function(graphObject,features = NULL,corr,fileName){
   }
   
   
-  z1<-agopen(g,name="temp",attrs = Attrs)  
+#   z1<-agopen(g,name="temp",attrs = Attrs)  
+  z1<-agopen(g,name="temp",layoutType = "fdp",attrs = Attrs)
   
   fileName1<-paste(fileName,".png",sep="")
   fileName2<-paste(fileName,".Rdata",sep="")
