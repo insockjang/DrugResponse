@@ -18,9 +18,12 @@ pathwayLayout1<-function(graphObject,features = NULL,corr){
   g<-graphObject  
   
   # selected feature 
-  X<-sort(features,decreasing = T,index.return=TRUE)
-  C<-corr[X$ix]
-  Name<-names(X$x)
+#   X<-sort(features,decreasing = T,index.return=TRUE)
+  
+  C<-corr[names(features),1]
+  
+  Name<-names(features)
+  
   Name1<-gsub("_expr","",Name)
   Name2<-gsub("_copy","",Name1)
   Name3<-gsub("_mut","",Name2)
@@ -71,12 +74,12 @@ pathwayLayout1<-function(graphObject,features = NULL,corr){
     if(length(a)<1){
       drawFuns[[k]]<-makeNodeDrawFunction1(1,0,nodeName)
     } else{
-      name1<-rep("NA",length(a))
+      name1<-c()
       cols<-c()
       for(kkk in 1:length(a)){
-        if(length(grep("_expr",Name[a[kkk]]))!=0){name1[grep("_expr",Name[a[kkk]])]<-"E"}
-        if(length(grep("_copy",Name[a[kkk]]))!=0){name1[grep("_copy",Name[a[kkk]])]<-"C"}
-        if(length(grep("_mut",Name[a[kkk]]))!=0){name1[grep("_mut",Name[a[kkk]])]<-"M"}
+        if(length(grep("_expr",Name[a[kkk]]))!=0){name1<-c(name1,"E")}
+        if(length(grep("_copy",Name[a[kkk]]))!=0){name1<-c(name1,"C")}
+        if(length(grep("_mut",Name[a[kkk]]))!=0){name1<-c(name1,"M")}
         
         if(C[a[kkk]]>=0){
           cols<-c(cols,ColorsPos[a[kkk]])
