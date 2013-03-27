@@ -19,9 +19,12 @@ mySplsModel1 <- setRefClass(Class = "mySplsModel1",
                              },
                              
                              customTrain = function(featureData, responseData, nfolds = 5, K, eta, ...){
-                               cv<-cv.spls(featureData, responseData, fold= nfolds, K, eta, kappa=0.5, select="pls2", fit="simpls")
+                               SD<-apply(featureData,2,sd)
+                               a<-which(SD != 0)
+                               featureData1<-featureData[,a]
+                               cv<-cv.spls(featureData1, responseData, fold= nfolds, K, eta, kappa=0.5, select="pls2", fit="simpls")
                                
-                               .self$model<-spls(featureData,responseData,eta=cv$eta.opt,K=cv$K.opt)                                 
+                               .self$model<-spls(featureData1,responseData,eta=cv$eta.opt,K=cv$K.opt)                                 
                              },
                              
                              customPredict = function(featureData){
